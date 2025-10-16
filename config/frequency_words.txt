@@ -1,6 +1,3 @@
-DeepSeek
-梁文锋
-
 谷歌
 google
 gemini
@@ -22,4 +19,4 @@ openai
 
 特朗普
 
-伊朗
+虚拟货币

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T21:35:03.451122+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2025-10-20T22:24:50.434397+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "各种“豁免”！在11月美国高院听证会前，特朗普政府“调整”关税策略",
@@ -110,8 +110,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时25分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[15时25分 ~ 22时24分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -155,8 +155,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[10时02分 ~ 21时35分]"
+          "appearance_count": 23,
+          "time_info": "[10时02分 ~ 22时24分]"
         },
         {
           "title": "特朗普被曝与泽连斯基再度激烈争吵",
@@ -182,11 +182,12 @@
             19,
             21,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时29分 ~ 21时35分]"
+          "appearance_count": 36,
+          "time_info": "[00时29分 ~ 22时24分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -200,6 +201,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时02分 ~ 14时38分]"
+        },
+        {
+          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
+          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 22时24分]"
         },
         {
           "title": "美国众议长约翰逊谈及军队薪资发放问题，称：现在已经完成（特朗普政府关门期间的一笔军饷发放），未来是没有保障的。",
@@ -232,18 +246,6 @@
           "time_info": "[17时30分 ~ 20时54分]"
         },
         {
-          "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
-          "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 21时35分]"
-        },
-        {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
           "url": "https://flash.jin10.com/detail/20251019224817731800",
           "source": "金十数据",
@@ -256,6 +258,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时30分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普对中国列出三大问题，中方表态",
+          "url": "https://news.ifeng.com/c/8nbema1wupK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时24分]"
         },
         {
           "title": "全美700万人涌上街头抗议特朗普",
@@ -334,6 +347,18 @@
           "time_info": "[00时30分 ~ 05时22分]"
         },
         {
+          "title": "特朗普称顿巴斯78%地区已被俄控制",
+          "url": "https://www.toutiao.com/trending/7563092838465241151/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普证实美国不会向加沙地带派遣地面部队",
           "url": "https://wallstreetcn.com/livenews/2990206",
           "source": "华尔街见闻-快讯",
@@ -362,15 +387,18 @@
           "time_info": "[15时25分 ~ 15时26分]"
         },
         {
-          "title": "特朗普对中国列出三大问题，中方表态",
-          "url": "https://news.ifeng.com/c/8nbema1wupK",
-          "source": "凤凰网",
+          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
+          "url": "https://www.zhihu.com/question/1963528380650614990",
+          "source": "知乎",
           "ranks": [
-            1
+            20,
+            17,
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 22时24分]"
         },
         {
           "title": "特朗普政府为何悄悄放松关税政策",
@@ -430,17 +458,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "特朗普称顿巴斯78%地区已被俄控制",
-          "url": "https://www.toutiao.com/trending/7563092838465241151/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "泽连斯基：愿参加特朗普与普京的会晤",
@@ -597,19 +614,6 @@
           "time_info": "[00时30分 ~ 05时22分]"
         },
         {
-          "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
-          "url": "https://www.zhihu.com/question/1963528380650614990",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时21分 ~ 21时35分]"
-        },
-        {
           "title": "特朗普：我们不能把所有武器都交给乌克兰。",
           "url": "https://flash.jin10.com/detail/20251019223722426800",
           "source": "金十数据",
@@ -701,6 +705,18 @@
           "time_info": "[10时02分 ~ 11时22分]"
         },
         {
+          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
+          "url": "https://www.cls.cn/detail/2174574",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 22时24分]"
+        },
+        {
           "title": "俄美共建白令海峡隧道？特朗普回应",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BE%8E%E5%85%B1%E5%BB%BA%E7%99%BD%E4%BB%A4%E6%B5%B7%E5%B3%A1%E9%9A%A7%E9%81%93%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -737,18 +753,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时28分]"
-        },
-        {
-          "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
-          "url": "https://www.cls.cn/detail/2174574",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 21时35分]"
         },
         {
           "title": "特朗普对印度下“关税通牒”",
@@ -809,6 +813,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
+          "url": "https://wallstreetcn.com/livenews/2990704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时24分]"
+        },
+        {
           "title": "特朗普被曝疑似险遭暗杀",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E9%99%A9%E9%81%AD%E6%9A%97%E6%9D%80",
           "source": "bilibili 热搜",
@@ -854,6 +870,17 @@
           "time_info": "[13时26分 ~ 13时27分]"
         },
         {
+          "title": "泽连斯基与特朗普对骂",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D9%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D8%26q%3D%2523%25E6%25B3%25BD%25E8%25BF%259E%25E6%2596%25AF%25E5%259F%25BA%25E4%25B8%258E%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AF%25B9%25E9%25AA%2582%2523%26dgr%3D0%26realpos%3D8%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760970203%26pre_seqid%3D176097020360602296836103",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "报道：韩国和美国同意在特朗普访问期间签署贸易谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/2990631",
           "source": "华尔街见闻-快讯",
@@ -863,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "内塔尼亚胡：我相信我们将与特朗普一起与该地区国家达成更多和平协议。",
+          "url": "https://flash.jin10.com/detail/20251020220324777800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "伊朗最高领袖哈梅内伊在社交媒体平台上回应美国总统特朗普称美国摧毁了伊朗核工业的说法，表示“继续做梦吧”。",
@@ -885,17 +923,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "特朗普指责哥伦比亚纵容毒品生产 哥召回驻美大使",
-          "url": "https://wallstreetcn.com/livenews/2990704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普会晤后，我的立场是“我们在前线的立场依然坚定”。",
@@ -970,7 +997,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -989,7 +1016,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -1016,15 +1043,15 @@
           "time_info": "[21时34分 ~ 21时35分]"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2990719",
-          "source": "华尔街见闻-快讯",
+          "title": "贸易局势、美信贷恐慌缓解，美股盘初三大指数集体上涨，苹果股价新高，现货黄金突破4320美元/盎司，比特币涨超2%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时24分"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -1039,15 +1066,28 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2990719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时24分]"
+        },
+        {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2174932",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时24分]"
         },
         {
           "title": "亚马逊美股盘前转跌，现跌0.21%。",
@@ -1106,6 +1146,28 @@
           "time_info": "18时28分"
         },
         {
+          "title": "美股持续走高，纳斯达克综合指数上涨1%，费城半导体指数触及历史新高，现涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/2990731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美股三大股指高开，道指涨0.41%，标普500指数涨0.51%，纳指涨0.76%。苹果上涨1.8%，Loop将其评级上调至买入；美光科技涨超5%，巴克莱将公司目标价从195美元上调至240美元；AMD、博通涨超1%；稀土概念股USA Rare Earth涨超7%；加密货币概念股上涨，Coinbase上涨1%。",
+          "url": "https://wallstreetcn.com/livenews/2990727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
           "url": "https://wallstreetcn.com/livenews/2990523",
           "source": "华尔街见闻-快讯",
@@ -1134,9 +1196,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251020214255792800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
@@ -1296,8 +1369,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时25分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[15时25分 ~ 22时24分]"
         }
       ]
     },

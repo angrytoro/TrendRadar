@@ -6,13 +6,25 @@ on:
     - cron: "0 * * * *" # 每小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
   workflow_dispatch:
 
-# 添加权限设置
+# 添加权限设置 (合并了 Pages 部署所需的权限)
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+# 允许只运行一个并发部署，从 static.yml 复制而来
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    
+    # 添加部署环境配置
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -63,3 +75,21 @@ jobs:
           git config --global user.email 'actions@github.com'
           git add -A
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
+          
+      # --- 从 static.yml 合并的部署步骤开始 ---
+
+      - name: Setup Pages
+        # 使用 v5 版本的 actions/configure-pages
+        uses: actions/configure-pages@v5 
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # 上传整个仓库内容 (假设生成的内容在根目录或 Pages 能识别的位置)
+          path: '.' 
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      # --- 合并的部署步骤结束 ---

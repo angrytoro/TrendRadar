@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:24:15.195748+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2025-11-08T14:34:09.762936+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[00时28分 ~ 07时25分]"
         },
         {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时50分 ~ 14时34分]"
+        },
+        {
           "title": "特朗普真想对委内瑞拉开战吗？",
           "url": "https://v.ifeng.com/c/8o61H5snkCE",
           "source": "凤凰网",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时25分]"
-        },
-        {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时24分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -66,6 +66,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时28分 ~ 12时30分]"
+        },
+        {
+          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时09分 ~ 14时34分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -92,19 +106,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时50分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 13时24分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -181,6 +182,20 @@
           "time_info": "[02时35分 ~ 03时22分]"
         },
         {
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 14时34分]"
+        },
+        {
           "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
           "url": "https://flash.jin10.com/detail/20251108020350624800",
           "source": "金十数据",
@@ -193,17 +208,17 @@
           "time_info": "[02时35分 ~ 03时22分]"
         },
         {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
           "source": "金十数据",
           "ranks": [
-            6,
-            18,
-            20
+            11,
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时24分]"
+          "time_info": "[12时30分 ~ 14时34分]"
         },
         {
           "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
@@ -301,18 +316,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时27分]"
-        },
-        {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
@@ -577,6 +580,18 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 14时34分]"
+        },
+        {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -599,20 +614,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 13时24分]"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 13时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 14时34分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -668,11 +671,12 @@
           "ranks": [
             11,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 14时34分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",

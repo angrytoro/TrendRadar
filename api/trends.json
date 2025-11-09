@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T11:20:16.115519+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2025-11-09T12:28:36.626802+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -15,11 +15,12 @@
             10,
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时28分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -41,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时28分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -52,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时28分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -104,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 10时00分]"
+        },
+        {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "欧尔班当场挖特朗普“墙脚”",
@@ -182,8 +194,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时28分]"
         }
       ]
     }

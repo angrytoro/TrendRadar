@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T20:45:54.499114+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-11-16T21:28:49.345751+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,18 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时30分 ~ 21时28分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-15）",
           "url": "https://flash.jin10.com/detail/20251115190723061800",
           "source": "金十数据",
@@ -92,18 +104,6 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
           "url": "https://flash.jin10.com/detail/20251116125811596800",
           "source": "金十数据",
@@ -117,6 +117,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时25分 ~ 17时24分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 21时28分]"
         },
         {
           "title": "特朗普与曾经亲密盟友格林关系破裂，共和党裂痕扩大",
@@ -146,17 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时25分 ~ 16时31分]"
-        },
-        {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时24分 ~ 20时45分]"
         },
         {
           "title": "特朗普：已对委内瑞拉问题作出决定",
@@ -189,11 +189,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时28分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -238,8 +239,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时28分 ~ 20时45分]"
+          "appearance_count": 26,
+          "time_info": "[00时28分 ~ 21时28分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -309,8 +310,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时30分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[16时30分 ~ 21时28分]"
         }
       ]
     },

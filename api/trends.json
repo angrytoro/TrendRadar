@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:41:07.386276+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-11-30T13:26:42.513210+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 12时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 13时26分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -159,11 +159,12 @@
           "url": "https://www.toutiao.com/trending/7578337181966552617/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 13时26分]"
         }
       ]
     },
@@ -206,8 +207,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时26分]"
         }
       ]
     },
@@ -226,8 +227,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时26分]"
         },
         {
           "title": "【早报】央行：持续打击虚拟货币相关非法金融活动；国家航天局设立商业航天司",
@@ -238,8 +239,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 12时41分]"
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 13时26分]"
         }
       ]
     },
@@ -259,8 +260,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时26分]"
         }
       ]
     },

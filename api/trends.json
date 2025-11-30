@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T04:28:21.297801+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2025-12-01T05:22:40.302563+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -64,11 +64,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -78,8 +79,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -92,8 +93,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         }
       ]
     },
@@ -109,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "【早报】央行：持续打击虚拟货币相关非法金融活动；国家航天局设立商业航天司",
@@ -121,8 +122,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "央行召开打击虚拟货币交易炒作工作协调机制会议，首次定调稳定币为非法金融！对此你怎么看？",
@@ -132,8 +133,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         }
       ]
     },
@@ -149,8 +150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -160,8 +161,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时22分]"
         }
       ]
     }

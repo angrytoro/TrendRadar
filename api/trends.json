@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T18:25:28.843909+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2025-11-30T19:20:28.074935+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时37分 ~ 18时25分]"
+          "appearance_count": 9,
+          "time_info": "[14时37分 ~ 19时20分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -170,15 +170,27 @@
           "time_info": "[00时31分 ~ 07时24分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
           "url": "https://flash.jin10.com/detail/20251130174813876800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -267,19 +279,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时10分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 19时20分]"
         },
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
           "url": "https://www.cls.cn/detail/2215083",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时20分]"
         }
       ]
     },
@@ -298,11 +311,12 @@
             2,
             13,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 18时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -314,8 +328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时30分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 19时20分]"
         }
       ]
     },

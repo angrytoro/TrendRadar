@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:31:05.218181+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-11-30T17:24:40.574597+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,18 @@
           "time_info": "[00时30分 ~ 07时24分]"
         },
         {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
           "url": "https://flash.jin10.com/detail/20251129220829620800",
           "source": "金十数据",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 10时10分]"
-        },
-        {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 16时31分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -246,19 +246,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 16时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 17时24分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 16时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 17时24分]"
         }
       ]
     },
@@ -290,8 +291,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时10分 ~ 16时31分]"
+          "appearance_count": 13,
+          "time_info": "[10时10分 ~ 17时24分]"
         }
       ]
     },

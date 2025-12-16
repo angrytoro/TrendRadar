@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T22:31:26.971349+08:00",
-  "total_titles_processed": 2087,
+  "generated_at": "2025-12-16T23:31:26.373164+08:00",
+  "total_titles_processed": 2177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -37,11 +37,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时05分 ~ 22时31分]"
+          "appearance_count": 16,
+          "time_info": "[10时05分 ~ 23时31分]"
         },
         {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
@@ -82,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时00分 ~ 22时31分]"
+          "appearance_count": 15,
+          "time_info": "[12时00分 ~ 23时31分]"
         },
         {
           "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
@@ -123,6 +124,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 05时27分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：Wiles是美国总统特朗普忠诚的顾问。",
+          "url": "https://wallstreetcn.com/livenews/3021803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -174,6 +186,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 03时25分]"
+        },
+        {
+          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
+          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时31分]"
+        },
+        {
+          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
+          "url": "https://news.ifeng.com/c/8p8hxedgU29",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时31分]"
         },
         {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
@@ -308,35 +342,13 @@
           "time_info": "[14时42分 ~ 15时29分]"
         },
         {
-          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
-          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
-          "url": "https://news.ifeng.com/c/8p8hxedgU29",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
           "title": "美国国家经济委员会主任凯文·哈塞特：总统特朗普认为，利率可以下降，许多人认同那样的看法。 美联储利率似乎与其他央行脱节。 如果我担任美联储主席，我会与联储官员们“谈判”。 鉴于供给侧冲击，（FOMC）存在大量降息空间。 大幅削减赤字是经济和下调利率的关键。 如果关税被（最高法院）裁定无效，白宫还有备用方案。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3021767",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -449,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：Wiles是美国总统特朗普忠诚的顾问。",
+          "url": "https://flash.jin10.com/detail/20251216230344459800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普正式起诉BBC 索赔50亿美元",
@@ -605,6 +628,17 @@
           "time_info": "21时44分"
         },
         {
+          "title": "美国国家经济委员会主任凯文·哈塞特：总统特朗普拒绝“美联储主席不可以是一个密友”这种想法。 美联储是时候往前走了，特朗普很快会宣布。 我很高兴，特朗普这次做了正确的决定。 特朗普对“美联储相当具有政治立场”感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3021776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
           "url": "https://wallstreetcn.com/livenews/3021198",
           "source": "华尔街见闻-快讯",
@@ -652,7 +686,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
@@ -756,13 +790,24 @@
           "time_info": "[06时27分 ~ 07时31分]"
         },
         {
+          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "非农超预期，美股盘前转涨，现货黄金小幅上涨，布油跌破60美元",
           "url": "https://wallstreetcn.com/articles/3761475",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -773,7 +818,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -784,7 +829,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -809,6 +854,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF跌1.46%，全球科技股指数ETF跌1.02%，半导体ETF跌0.14%，全球航空业ETF则涨0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3021783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -1004,7 +1060,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1084,7 +1140,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },

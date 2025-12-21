@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:32:41.029796+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2025-12-21T22:23:59.125887+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 22时23分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时32分]"
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 22时23分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -153,11 +153,12 @@
           "ranks": [
             3,
             9,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时23分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -248,7 +249,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -263,17 +264,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时03分 ~ 17时27分]"
-        },
-        {
-          "title": "Gemini数学实力测试",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
@@ -299,6 +289,18 @@
           "time_info": "[00时31分 ~ 04时27分]"
         },
         {
+          "title": "Gemini数学实力测试",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时23分]"
+        },
+        {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
           "url": "https://wallstreetcn.com/articles/3761792",
           "source": "华尔街见闻",
@@ -306,14 +308,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 21时32分]"
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 22时23分]"
+        },
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -374,13 +387,24 @@
           "time_info": "[00时31分 ~ 10时11分]"
         },
         {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
           "url": "https://www.zhihu.com/question/1985011347914774514",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -412,8 +436,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时38分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[14时38分 ~ 22时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",

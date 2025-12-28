@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:52:33.204747+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2025-12-28T21:34:32.736262+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时31分 ~ 20时52分]"
+          "appearance_count": 11,
+          "time_info": "[13时31分 ~ 21时34分]"
         },
         {
           "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
@@ -57,6 +57,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 21时34分]"
+        },
+        {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
           "url": "https://flash.jin10.com/detail/20251227213217547800",
           "source": "金十数据",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时25分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 20时52分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -264,8 +264,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 20时52分]"
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 21时34分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",

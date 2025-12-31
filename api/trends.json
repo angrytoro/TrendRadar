@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:38:00.051690+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-12-31T17:31:46.710208+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,12 @@
             13,
             10,
             5,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 17时31分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
@@ -296,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 16时37分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 17时31分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",

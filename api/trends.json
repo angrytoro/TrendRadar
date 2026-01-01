@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:24:35.915334+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-01-01T20:55:27.581377+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -57,17 +57,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "特朗普称“凯旋门”将于两个月内开建",
           "url": "https://flash.jin10.com/detail/20260101010133280800",
           "source": "金十数据",
@@ -91,6 +80,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时23分 ~ 12时13分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时55分]"
         },
         {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
@@ -262,8 +263,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时23分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[10时23分 ~ 20时55分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",

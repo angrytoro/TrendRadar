@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:27:16.181596+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-01-08T20:59:01.721593+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时04分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 20时59分]"
         },
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -67,11 +67,12 @@
             13,
             14,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时07分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[10时07分 ~ 20时59分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -136,6 +137,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时04分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 20时59分]"
         },
         {
           "title": "特朗普表示，美国对委内瑞拉的监管可能会持续多年，美国将在未来数年内开采委内瑞拉石油。（纽约时报）",
@@ -248,17 +261,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时31分 ~ 16时39分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时27分]"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -453,6 +455,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时32分]"
+        },
+        {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "【内塔尼亚胡：特朗普已为以色列对黎真主党发动新一轮军事行动“开绿灯”】7日获悉，以色列总理内塔尼亚胡向内阁部长透露，美国总统特朗普已为以色列在黎巴嫩对真主党发动新一轮军事行动“开绿灯”。据悉，以色列和美国方面均对黎巴嫩政府在应对真主党威胁方面的表现“表示不满”。不过，暂无信息明确指出以军是否即将对黎巴嫩真主党发起大规模军事打击。（央视）",
@@ -671,6 +684,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "特朗普宣布扩军计划 重燃全球军工行情",
+          "url": "https://flash.jin10.com/detail/20260108203127157800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
@@ -965,7 +989,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -1171,7 +1195,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         }
@@ -1190,8 +1214,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时07分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[10时07分 ~ 20时59分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",

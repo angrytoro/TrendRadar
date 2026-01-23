@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T17:37:27.107435+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-01-23T18:32:57.540454+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 111,
+      "match_count": 114,
       "titles": [
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -68,6 +68,19 @@
           "time_info": "[00时42分 ~ 13时35分]"
         },
         {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 18时32分]"
+        },
+        {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
           "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
           "source": "凤凰网",
@@ -103,19 +116,6 @@
           "time_info": "[00时42分 ~ 14时43分]"
         },
         {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 17时37分]"
-        },
-        {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
           "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
@@ -140,6 +140,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时43分 ~ 17时37分]"
+        },
+        {
+          "title": "达沃斯后，特朗普狂发80条帖子…",
+          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 18时32分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -198,18 +211,6 @@
           "time_info": "[00时42分 ~ 07时28分]"
         },
         {
-          "title": "达沃斯后，特朗普狂发80条帖子…",
-          "url": "https://news.ifeng.com/c/8q9DLsy9hjV",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时32分 ~ 17时37分]"
-        },
-        {
           "title": "特朗普称将于4月访华 中方回应",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E%20%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94",
           "source": "bilibili 热搜",
@@ -220,6 +221,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时38分 ~ 17时37分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 18时32分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -247,6 +261,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -293,18 +319,6 @@
           "time_info": "16时39分"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2267695",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
-        },
-        {
           "title": "特朗普：和平委员会撤回对加拿大的邀请。",
           "url": "https://wallstreetcn.com/livenews/3042464",
           "source": "华尔街见闻-快讯",
@@ -327,15 +341,15 @@
           "time_info": "10时09分"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "18时32分"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -372,6 +386,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时36分]"
+        },
+        {
+          "title": "特朗普称将于4月访华 中方回应",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 18时32分]"
         },
         {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
@@ -460,15 +486,17 @@
           "time_info": "[14时43分 ~ 16时39分]"
         },
         {
-          "title": "特朗普称将于4月访华 中方回应",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            7
+            19,
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 18时32分]"
         },
         {
           "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
@@ -493,18 +521,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时34分 ~ 14时43分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 17时37分]"
         },
         {
           "title": "外交部回应特朗普称将于4月访问中国",
@@ -602,6 +618,18 @@
           "time_info": "[00时42分 ~ 01时36分]"
         },
         {
+          "title": "马克龙戴着墨镜警告特朗普",
+          "url": "https://www.toutiao.com/trending/7597330066661703723/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普称与泽连斯基会晤“非常好”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E6%99%A4%E2%80%9C%E9%9D%9E%E5%B8%B8%E5%A5%BD%E2%80%9D",
           "source": "百度热搜",
@@ -644,6 +672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -740,7 +779,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -853,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特使威特科夫和特朗普女婿库什纳展开会谈。",
@@ -1081,7 +1131,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1249,17 +1299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "马克龙戴着墨镜警告特朗普",
-          "url": "https://www.toutiao.com/trending/7597330066661703723/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "特朗普在达沃斯启动“和平委员会”",
@@ -1468,7 +1507,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1525,6 +1564,18 @@
           "time_info": "[02时42分 ~ 04时36分]"
         },
         {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时32分]"
+        },
+        {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
           "url": "https://flash.jin10.com/detail/20260123151617900800",
           "source": "金十数据",
@@ -1545,17 +1596,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "市场消息：谷歌投资Sakana AI，旨在提升Gemini在日本的业务。",
@@ -1715,7 +1755,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1869,8 +1909,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时09分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时09分 ~ 18时32分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",

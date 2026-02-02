@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T17:59:06.172466+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-02-02T18:57:46.445534+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -58,6 +58,18 @@
           "time_info": "[00时38分 ~ 07时32分]"
         },
         {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 18时57分]"
+        },
+        {
           "title": "特朗普：美委将“分享”石油收益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
           "source": "澎湃新闻",
@@ -81,18 +93,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时32分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 17时59分]"
         },
         {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
@@ -360,6 +360,17 @@
           "time_info": "10时44分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "特朗普回应被爱泼斯坦案文件提及",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -369,12 +380,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
+        },
+        {
+          "title": "克里姆林宫：对于此前就俄罗斯应特朗普请求短暂暂停打击乌克兰能源基础设施一事所作表态，已无更多补充。",
+          "url": "https://flash.jin10.com/detail/20260202175246532800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -414,6 +436,19 @@
           "time_info": "[01时31分 ~ 07时32分]"
         },
         {
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 18时57分]"
+        },
+        {
           "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
           "url": "https://www.cls.cn/detail/2277020",
           "source": "财联社热门",
@@ -427,17 +462,17 @@
           "time_info": "[10时44分 ~ 16时54分]"
         },
         {
-          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
-          "url": "https://www.zhihu.com/question/1999853811821463456",
-          "source": "知乎",
+          "title": "黄金暴跌为何瑞银却上调金价目标",
+          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            4,
-            6
+            23,
+            15,
+            27
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时03分 ~ 17时59分]"
+          "time_info": "[15时10分 ~ 18时57分]"
         },
         {
           "title": "金十图示：2026年02月02日（周一）上海金早盘价为1063.22元/克，较国际金价(1055.02元/克)，高8.2元/克",
@@ -479,23 +514,12 @@
           "url": "https://wallstreetcn.com/livenews/3048273",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
-        },
-        {
-          "title": "黄金暴跌为何瑞银却上调金价目标",
-          "url": "https://www.toutiao.com/trending/7602143255571992083/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            15
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 17时59分]"
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时57分]"
         },
         {
           "title": "金价",
@@ -527,11 +551,12 @@
           "url": "https://www.toutiao.com/trending/7602177874514988598/",
           "source": "今日头条",
           "ranks": [
-            30
+            30,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 18时57分]"
         },
         {
           "title": "李大霄直播解读金价震荡",
@@ -545,13 +570,24 @@
           "time_info": "16时54分"
         },
         {
+          "title": "金价闪崩可以抄底了吗",
+          "url": "https://www.toutiao.com/trending/7602181563039632905/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "金价下跌逾4%，美股黄金矿业公司股价盘前下跌，哈莫尼黄金下跌5.3%，SPDR黄金ETF下跌4.1%，巴里克矿业下跌4.8%。金罗斯黄金下跌5.9%。",
           "url": "https://flash.jin10.com/detail/20260202171934204800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
@@ -581,7 +617,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
@@ -624,9 +660,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "贵金属普遍遭抛售，美股锂矿商盘前下跌。",
+          "url": "https://flash.jin10.com/detail/20260202180049726800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
@@ -683,7 +730,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }
@@ -731,8 +778,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时38分 ~ 17时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 18时57分]"
         }
       ]
     }

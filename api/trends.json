@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:56:19.045666+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-02-03T15:02:06.751439+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时02分]"
         },
         {
           "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
@@ -26,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -42,6 +42,19 @@
           "time_info": "07时35分"
         },
         {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 15时02分]"
+        },
+        {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
           "url": "https://flash.jin10.com/detail/20260203011746385800",
           "source": "金十数据",
@@ -53,18 +66,6 @@
           "time_info": "01时44分"
         },
         {
-          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
-          "url": "https://www.cls.cn/detail/2278350",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 13时56分]"
-        },
-        {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2278428",
           "source": "财联社热门",
@@ -74,8 +75,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时02分]"
         },
         {
           "title": "特朗普威胁要向哈佛大学索赔10亿美元",
@@ -90,16 +104,15 @@
           "time_info": "[12时52分 ~ 13时56分]"
         },
         {
-          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2001948735127643511",
-          "source": "知乎",
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时56分]"
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
@@ -424,8 +437,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 15时02分]"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时02分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -437,18 +462,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 01时44分]"
-        },
-        {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 13时56分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -567,7 +580,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -578,7 +591,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         }
@@ -597,8 +610,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时02分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",

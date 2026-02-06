@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:53:03.224277+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-02-06T13:59:22.224506+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 13时59分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 13时59分]"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -91,6 +91,19 @@
           "time_info": "[03时42分 ~ 04时41分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 13时59分]"
+        },
+        {
           "title": "沃什未上任已被特朗普施压",
           "url": "https://www.douyin.com/hot/2390169",
           "source": "抖音",
@@ -126,18 +139,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 06时35分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 12时53分]"
         },
         {
           "title": "特朗普：《新削减战略武器条约》应被改进而非延长",
@@ -453,6 +454,19 @@
           "time_info": "[00时58分 ~ 07时31分]"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时30分 ~ 13时59分]"
+        },
+        {
           "title": "美股三大指数集体低开 纳指跌超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%B6%851%25",
           "source": "百度热搜",
@@ -466,19 +480,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时58分 ~ 06时35分]"
-        },
-        {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时53分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
@@ -519,11 +520,24 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 13时59分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时37分 ~ 12时53分]"
+          "time_info": "[12时52分 ~ 13时59分]"
         },
         {
           "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
@@ -572,17 +586,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时35分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
         },
         {
           "title": "美股收盘：纳指连跌3日 周跌幅扩大至近4%",
@@ -726,8 +729,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 13时59分]"
         }
       ]
     },
@@ -743,8 +746,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 13时59分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",

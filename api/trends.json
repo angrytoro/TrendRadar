@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T21:03:04.342920+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2026-02-07T22:33:18.786691+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时32分 ~ 21时03分]"
+          "appearance_count": 17,
+          "time_info": "[10时32分 ~ 22时33分]"
         },
         {
           "title": "特朗普签署行政命令，对与伊朗有贸易往来的国家征收关税",
@@ -100,11 +101,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时37分 ~ 21时03分]"
+          "appearance_count": 11,
+          "time_info": "[15时37分 ~ 22时33分]"
         },
         {
           "title": "特朗普再谈格陵兰岛：丹麦手里有块“冰”，我们想买它！",
@@ -145,11 +147,37 @@
           "source": "知乎",
           "ranks": [
             13,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时32分 ~ 21时03分]"
+          "appearance_count": 17,
+          "time_info": "[10时32分 ~ 22时33分]"
+        },
+        {
+          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
+          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 22时33分]"
+        },
+        {
+          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
+          "url": "https://wallstreetcn.com/articles/3765222",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时33分 ~ 22时33分]"
         },
         {
           "title": "奥巴马夫妇成了大猩猩？特朗普麻烦大了(图)",
@@ -161,17 +189,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时32分 ~ 16时40分]"
-        },
-        {
-          "title": "发奥巴马夫妇被P成猿猴视频翻车，特朗普：你们咋不关心选民欺诈",
-          "url": "https://news.ifeng.com/c/8qYEsnIMXAd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 21时03分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -186,19 +203,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时00分 ~ 07时33分]"
-        },
-        {
-          "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
-          "url": "https://wallstreetcn.com/articles/3765222",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时33分 ~ 21时03分]"
         },
         {
           "title": "特朗普称美俄乌会谈“可能会有事发生”",
@@ -334,17 +338,6 @@
           "time_info": "[10时33分 ~ 15时37分]"
         },
         {
-          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
-          "url": "https://flash.jin10.com/detail/20260207200111862800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
           "url": "https://flash.jin10.com/detail/20260207024944141800",
           "source": "金十数据",
@@ -418,11 +411,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 22时33分]"
         },
         {
           "title": "特朗普在经济演讲中宣称通胀胜利近20次，尽管物价高企",
@@ -430,11 +424,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 21时03分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 22时33分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
+          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 22时33分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -450,16 +458,16 @@
           "time_info": "[03时01分 ~ 04时41分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-07）",
-          "url": "https://flash.jin10.com/detail/20260207181103862800",
+          "title": "特朗普手机鸽了8个月还没上市 价格将上调 也不再是“美国制造”",
+          "url": "https://flash.jin10.com/detail/20260207200111862800",
           "source": "金十数据",
           "ranks": [
-            3,
-            12
+            4,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时29分 ~ 21时03分]"
+          "time_info": "[21时03分 ~ 22时33分]"
         },
         {
           "title": "报道：特朗普政府考虑对住宅建筑商发起反垄断调查",
@@ -483,6 +491,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时41分 ~ 07时33分]"
+        },
+        {
+          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
+          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 22时33分]"
         },
         {
           "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
@@ -535,17 +554,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时33分 ~ 13时48分]"
-        },
-        {
-          "title": "两大日媒批特朗普干涉日本内政：前所未闻，不可容忍",
-          "url": "https://news.ifeng.com/c/8qY8hiEtDth",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "特朗普称道指将站上10万点",
@@ -828,8 +836,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时33分 ~ 21时03分]"
+          "appearance_count": 18,
+          "time_info": "[07时33分 ~ 22时33分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -843,8 +851,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时33分 ~ 21时03分]"
+          "appearance_count": 18,
+          "time_info": "[07时33分 ~ 22时33分]"
         },
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -872,8 +880,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时55分 ~ 21时03分]"
+          "appearance_count": 28,
+          "time_info": "[00时55分 ~ 22时33分]"
         },
         {
           "title": "美股成交额前20：英伟达结束五连跌",
@@ -1164,8 +1172,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时37分 ~ 21时03分]"
+          "appearance_count": 9,
+          "time_info": "[17时37分 ~ 22时33分]"
         },
         {
           "title": "【早报】深夜，中国资产大涨；虚拟货币监管再升级",

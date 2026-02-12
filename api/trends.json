@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T19:50:21.729775+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-02-12T21:23:19.427202+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时02分 ~ 19时50分]"
+          "appearance_count": 18,
+          "time_info": "[02时02分 ~ 21时23分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -41,8 +41,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 19时50分]"
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 21时23分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 21时23分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -55,19 +69,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 07时40分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 19时50分]"
         },
         {
           "title": "特朗普否认了，仅拒邀两人",
@@ -92,8 +93,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 19时50分]"
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 21时23分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时03分 ~ 21时23分]"
+        },
+        {
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 21时23分]"
         },
         {
           "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
@@ -109,19 +134,6 @@
           "time_info": "[13时03分 ~ 18时59分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 19时50分]"
-        },
-        {
           "title": "中方回应特朗普预计4月初访华",
           "url": "https://www.toutiao.com/trending/7605620935953956906/",
           "source": "今日头条",
@@ -132,17 +144,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时56分 ~ 19时50分]"
-        },
-        {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时50分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -179,6 +180,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时56分 ~ 21时23分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -236,17 +251,18 @@
           "time_info": "07时40分"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
             11,
-            13
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时56分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时23分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -310,19 +326,6 @@
           "time_info": "[03时57分 ~ 04时49分]"
         },
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 19时50分]"
-        },
-        {
           "title": "中方回应“特朗普将于4月初访华”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
           "source": "百度热搜",
@@ -331,8 +334,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时59分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 21时23分]"
         },
         {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
@@ -537,7 +540,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -647,7 +650,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -798,7 +801,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -892,11 +895,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时50分]"
+          "appearance_count": 3,
+          "time_info": "[18时59分 ~ 21时23分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -931,6 +935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
+        },
+        {
+          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2288812",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "周三（2月11日）美股尾盘，彭博电动汽车价格回报指数涨1.32%，报3662.78点。 北京时间09:25出现一波快速上涨行情，10:15过后持续高位震荡。 成分股智利化工矿业公司（SQM）涨7.1%，美国雅宝涨4.3%，小米集团H股收涨4.27%，意法半导体欧股收涨2.92%，禾赛科技则跌6.2%，Lucid集团跌8.3%。",
@@ -1001,8 +1016,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时39分 ~ 19时50分]"
+          "appearance_count": 11,
+          "time_info": "[07时39分 ~ 21时23分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
@@ -1132,6 +1147,36 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时40分]"
+        },
+        {
+          "title": "现在金价这么高，把「三金」卖了，以后金价跌了再买合适吗？",
+          "url": "https://www.zhihu.com/question/1964981998281036870",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1156,25 +1201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 07时40分]"
         }
       ]
     },

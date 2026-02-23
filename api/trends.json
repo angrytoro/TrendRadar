@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T23:08:23.660267+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-02-23T23:54:26.485366+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -86,8 +86,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 23时08分]"
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 23时54分]"
         },
         {
           "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
@@ -118,6 +118,21 @@
           "time_info": "[00时39分 ~ 07时33分]"
         },
         {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时21分 ~ 23时54分]"
+        },
+        {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
           "url": "https://wallstreetcn.com/livenews/3057287",
           "source": "华尔街见闻-快讯",
@@ -130,6 +145,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时44分 ~ 07时33分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时58分 ~ 23时54分]"
         },
         {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
@@ -146,21 +175,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 07时33分]"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12,
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时21分 ~ 23时08分]"
         },
         {
           "title": "特朗普要求网飞开除苏珊·赖斯，司法部正审查华纳收购案",
@@ -188,20 +202,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时04分 ~ 16时58分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时58分 ~ 23时08分]"
         },
         {
           "title": "连锁反应来了，印度打脸特朗普",
@@ -236,7 +236,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -247,7 +247,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -258,7 +258,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -287,6 +287,18 @@
           "time_info": "[22时25分 ~ 23时08分]"
         },
         {
+          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
+          "url": "https://www.cls.cn/detail/2292753",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时54分]"
+        },
+        {
           "title": "男子持枪闯入特朗普住所被击毙",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
           "source": "百度热搜",
@@ -306,18 +318,6 @@
           "ranks": [
             6,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时08分]"
-        },
-        {
-          "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
-          "url": "https://www.cls.cn/detail/2292753",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -395,13 +395,24 @@
           "time_info": "[15时21分 ~ 16时58分]"
         },
         {
+          "title": "道指暴跌超600点，特朗普在周末上调全球关税——恐将让全球贸易重新陷入混乱",
+          "url": "https://wallstreetcn.com/livenews/3057558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "欧盟因特朗普关税不确定性冻结对美贸易协议的批准。",
           "url": "https://wallstreetcn.com/livenews/3057527",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -423,7 +434,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -434,7 +445,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -511,7 +522,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -533,7 +544,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -574,7 +585,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -615,6 +626,17 @@
           "time_info": "[18时05分 ~ 23时08分]"
         },
         {
+          "title": "美股延续跌势，纳指下跌1.01%。",
+          "url": "https://flash.jin10.com/detail/20260223235258833800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
           "url": "https://flash.jin10.com/detail/20260223174523816800",
           "source": "金十数据",
@@ -624,6 +646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时06分"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
@@ -658,8 +691,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 23时08分]"
+          "appearance_count": 3,
+          "time_info": "[22时25分 ~ 23时54分]"
         },
         {
           "title": "美股加密货币概念股盘前走低，艾斯欧艾斯跌近5%，MARA Holdings跌超2%，Coinbase Global跌近2%。",
@@ -691,7 +724,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -713,7 +746,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         },
@@ -746,7 +779,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时08分"
         }
@@ -754,7 +787,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
@@ -778,6 +811,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 10时44分]"
+        },
+        {
+          "title": "OpenAI：正在调查面向商业和企业客户的ChatGPT对话中错误率升高的问题。",
+          "url": "https://flash.jin10.com/detail/20260223234136834800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     },
@@ -799,8 +843,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时44分 ~ 23时08分]"
+          "appearance_count": 17,
+          "time_info": "[02时44分 ~ 23时54分]"
         }
       ]
     }

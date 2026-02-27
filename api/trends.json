@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T18:46:23.959705+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2026-02-27T19:38:13.620315+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -34,8 +34,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时37分 ~ 18时46分]"
+          "appearance_count": 13,
+          "time_info": "[07时37分 ~ 19时38分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -63,6 +63,33 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 19时38分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时51分 ~ 19时38分]"
         },
         {
           "title": "特朗普2026国会演讲全解析",
@@ -94,7 +121,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -134,31 +161,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时51分 ~ 05时38分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时46分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 18时46分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -242,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "民调显示，68%的美国人表示，尽管特朗普声称美国经济正在繁荣，但他们并不认为如此。82%的美国人表示美国仍然存在显著的通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260227190305454800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
@@ -839,6 +852,51 @@
       ]
     },
     {
+      "keyword_group": "虚拟货币",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            3,
+            8,
+            10,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 07时37分]"
+        },
+        {
+          "title": "美式霸权如何精准收割虚拟货币",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%BC%8F%E9%9C%B8%E6%9D%83%E5%A6%82%E4%BD%95%E7%B2%BE%E5%87%86%E6%94%B6%E5%89%B2%E8%99%9A%E6%8B%9F%E8%B4%A7%E5%B8%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 19时38分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -893,40 +951,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟货币",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8,
-            10,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时37分]"
-        },
-        {
-          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 07时37分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T17:37:19.570508+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-03-01T18:32:46.666038+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时51分 ~ 18时32分]"
+        },
+        {
+          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
+          "url": "https://wallstreetcn.com/articles/3766454",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[10时51分 ~ 17时37分]"
+          "time_info": "[12时59分 ~ 18时32分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -47,17 +60,17 @@
           "time_info": "[00时34分 ~ 15时01分]"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
+          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
+          "url": "https://www.cls.cn/detail/2298666",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            4,
-            5
+            8,
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时51分 ~ 18时32分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -72,19 +85,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时51分 ~ 17时37分]"
         },
         {
           "title": "实时更新丨特朗普宣布哈梅内伊已死",
@@ -921,8 +921,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 17时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 18时32分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",
@@ -1169,7 +1169,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }

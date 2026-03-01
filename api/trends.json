@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T21:02:12.356325+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-03-01T22:31:56.485697+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时59分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[12时59分 ~ 22时31分]"
         },
         {
           "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时51分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时51分 ~ 22时31分]"
         },
         {
           "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
@@ -66,11 +66,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时51分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[10时51分 ~ 22时31分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -311,6 +312,19 @@
           "time_info": "[05时28分 ~ 06时30分]"
         },
         {
+          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
+          "url": "https://wallstreetcn.com/articles/3766448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时31分]"
+        },
+        {
           "title": "特朗普称哈梅内伊死亡",
           "url": "https://wallstreetcn.com/livenews/3061004",
           "source": "华尔街见闻-快讯",
@@ -374,18 +388,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时51分 ~ 13时59分]"
-        },
-        {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时02分]"
         },
         {
           "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
@@ -721,7 +723,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -945,8 +947,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 21时02分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 22时31分]"
         },
         {
           "title": "马斯克：我一点也不信任OpenAI。",

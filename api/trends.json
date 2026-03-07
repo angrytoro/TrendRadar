@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T19:27:03.134983+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2026-03-07T21:01:58.709287+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时28分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时28分 ~ 21时01分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -83,11 +83,12 @@
           "url": "https://flash.jin10.com/detail/20260307191516778800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 21时01分]"
         },
         {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
@@ -277,6 +278,17 @@
           "time_info": "[12时26分 ~ 13时41分]"
         },
         {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "美国总统特朗普：明天，我将与第一夫人及内阁成员一同前往多佛空军基地，向我们的伟大勇士致以最崇高的敬意。",
           "url": "https://flash.jin10.com/detail/20260307093639717800",
           "source": "金十数据",
@@ -332,6 +344,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "哥伦比亚总统佩特罗：特朗普必须远离内塔尼亚胡和那些向地球上的孩子发射导弹的人。",
+          "url": "https://flash.jin10.com/detail/20260307195848555800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
           "title": "特朗普：军工企业一致同意将“高精尖”武器产量提高四倍",
           "url": "https://flash.jin10.com/detail/20260307082138210800",
           "source": "金十数据",
@@ -355,11 +378,12 @@
           "ranks": [
             6,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时34分 ~ 19时27分]"
+          "appearance_count": 13,
+          "time_info": "[07时34分 ~ 21时01分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",
@@ -454,8 +478,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 21时01分]"
         },
         {
           "title": "OpenAI推出一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",

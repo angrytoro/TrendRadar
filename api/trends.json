@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:46:23.086979+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2026-03-07T22:31:50.921521+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时28分 ~ 21时46分]"
+          "appearance_count": 14,
+          "time_info": "[10时28分 ~ 22时31分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -160,6 +160,19 @@
           "time_info": "[04时39分 ~ 07时34分]"
         },
         {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时31分]"
+        },
+        {
           "title": "奥巴马、拜登“不点名”抨击特朗普政府",
           "url": "https://news.ifeng.com/c/8rIXypaKu4O",
           "source": "凤凰网",
@@ -192,18 +205,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时34分]"
-        },
-        {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时46分]"
         },
         {
           "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
@@ -374,7 +375,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         }
@@ -395,8 +396,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时34分 ~ 21时46分]"
+          "appearance_count": 15,
+          "time_info": "[07时34分 ~ 22时31分]"
         },
         {
           "title": "半导体ETF收跌超3.7%，领跌美股行业ETF",

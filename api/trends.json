@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T17:54:01.592071+08:00",
-  "total_titles_processed": 1569,
+  "generated_at": "2026-03-10T18:50:24.703601+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时34分 ~ 17时54分]"
+          "appearance_count": 13,
+          "time_info": "[07时34分 ~ 18时50分]"
         },
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时33分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 18时50分]"
         },
         {
           "title": "特朗普：将暂时免除一些制裁以平抑油价 对伊战事“很快”会结束",
@@ -107,6 +107,17 @@
           "time_info": "[00时06分 ~ 13时52分]"
         },
         {
+          "title": "美媒最新民调：特朗普支持率下滑至44%",
+          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 18时50分]"
+        },
+        {
           "title": "美媒：特朗普没有对伊朗的“战后计划”",
           "url": "https://news.ifeng.com/c/8rN9ezF5RPS",
           "source": "凤凰网",
@@ -115,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时33分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 18时50分]"
         },
         {
           "title": "特朗普：将与以总理共同作出停战决定",
@@ -142,15 +153,18 @@
           "time_info": "[00时06分 ~ 10时33分]"
         },
         {
-          "title": "美媒最新民调：特朗普支持率下滑至44%",
-          "url": "https://news.ifeng.com/c/8rNS9E6Ovmp",
-          "source": "凤凰网",
+          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
+          "url": "https://www.cls.cn/detail/2308078",
+          "source": "财联社热门",
           "ranks": [
-            7
+            11,
+            6,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[15时00分 ~ 18时50分]"
         },
         {
           "title": "美以伊战争｜特朗普：战争已基本结束",
@@ -164,20 +178,6 @@
           "time_info": "[04时41分 ~ 06时36分]"
         },
         {
-          "title": "专家预言“霍尔木兹危机”将持续更久，特朗普发出“20倍攻击力”警告！",
-          "url": "https://www.cls.cn/detail/2308078",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时00分 ~ 17时54分]"
-        },
-        {
           "title": "特朗普称对伊战事将很快结束 G7承诺必要时释放石油储备 | 环球市场",
           "url": "https://www.cls.cn/detail/2307809",
           "source": "财联社热门",
@@ -188,6 +188,35 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时33分 ~ 16时53分]"
+        },
+        {
+          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
+          "url": "https://www.cls.cn/detail/2307968",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 18时50分]"
+        },
+        {
+          "title": "普京与特朗普通话讨论伊朗局势",
+          "url": "https://www.douyin.com/hot/2424957",
+          "source": "抖音",
+          "ranks": [
+            15,
+            24,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 18时50分]"
         },
         {
           "title": "美以伊战争｜战争本周会结束吗？特朗普回应",
@@ -210,34 +239,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "特朗普：若伊朗阻断霍尔木兹海峡，美将施以“比以往猛烈20倍的打击”",
-          "url": "https://www.cls.cn/detail/2307968",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 17时54分]"
-        },
-        {
-          "title": "普京与特朗普通话讨论伊朗局势",
-          "url": "https://www.douyin.com/hot/2424957",
-          "source": "抖音",
-          "ranks": [
-            15,
-            24,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 17时54分]"
         },
         {
           "title": "大逆转！特朗普一句“战争结束”，美国股债深V反转，原油较日高暴跌30%",
@@ -841,7 +842,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1289,7 +1290,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -1431,6 +1432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "特朗普释放停战信号，美股期指盘前上涨，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美股尾盘，三大美股指数均转涨，纳斯达克指数涨超1.3%。",

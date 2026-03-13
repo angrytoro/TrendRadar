@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T16:51:38.357187+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2026-03-13T17:49:15.898517+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -33,6 +33,18 @@
           "time_info": "[00时06分 ~ 07时35分]"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 17时49分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 05时40分]"
-        },
-        {
-          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
-          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 16时51分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -78,8 +78,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时36分 ~ 16时51分]"
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 17时49分]"
+        },
+        {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 17时49分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -95,6 +107,17 @@
           "time_info": "[07时34分 ~ 12时50分]"
         },
         {
+          "title": "美媒：特朗普在G7通话中称伊朗即将投降，只是伊朗没人能宣布",
+          "url": "https://flash.jin10.com/detail/20260313172014745800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "特朗普：伊朗的一切都在被摧毁",
           "url": "https://flash.jin10.com/detail/20260313123158096800",
           "source": "金十数据",
@@ -104,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
+          "url": "https://flash.jin10.com/detail/20260313171234466800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -127,18 +161,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时36分 ~ 15时03分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 16时51分]"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
@@ -482,7 +504,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -512,8 +534,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时49分 ~ 17时49分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",

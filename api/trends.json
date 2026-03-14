@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T14:58:03.781192+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-03-14T15:41:18.720177+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时50分 ~ 07时35分]"
         },
         {
+          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
+          "url": "https://wallstreetcn.com/articles/3767495",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 15时41分]"
+        },
+        {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
           "url": "https://wallstreetcn.com/articles/3767380",
           "source": "华尔街见闻",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 04时42分]"
-        },
-        {
-          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
-          "url": "https://wallstreetcn.com/articles/3767495",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 14时58分]"
         },
         {
           "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
@@ -87,11 +87,12 @@
             10,
             16,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时50分 ~ 14时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 15时41分]"
         },
         {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
@@ -102,8 +103,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 15时41分]"
         },
         {
           "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
@@ -115,8 +116,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
@@ -130,6 +131,18 @@
           "time_info": "[05时40分 ~ 07时35分]"
         },
         {
+          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 15时41分]"
+        },
+        {
           "title": "特朗普宣布空袭伊朗石油枢纽",
           "url": "https://www.douyin.com/hot/2429982",
           "source": "抖音",
@@ -141,17 +154,6 @@
           "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 14时58分]"
-        },
-        {
           "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
           "url": "https://flash.jin10.com/detail/20260314032116840800",
           "source": "金十数据",
@@ -161,6 +163,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
+          "url": "https://www.cls.cn/detail/2312740",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时47分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
+          "url": "https://wallstreetcn.com/articles/3767517",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时41分]"
         },
         {
           "title": "特朗普对哈尔克岛发动空袭",
@@ -184,17 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
-          "url": "https://www.cls.cn/detail/2312740",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 14时58分]"
         },
         {
           "title": "周五（3月13日），降息赢家指数跌0.54%，报87.04点，本周累计下跌4.66%，整体冲高回落，周二纽约中午之前持续走高，随后持续走低。 “特朗普关税输家”指数累跌4.30%，报100.96点，整体冲高回落。 “特朗普金融指数”累跌4.32%，报143.74点。 散户抱团概念股指数/迷因股（meme stock）指数累跌0.85%，报12.39点。",
@@ -356,6 +370,30 @@
           "time_info": "[04时42分 ~ 07时35分]"
         },
         {
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时41分]"
+        },
+        {
+          "title": "特朗普声称伊朗已被“彻底击败”",
+          "url": "https://wallstreetcn.com/livenews/3070086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 15时41分]"
+        },
+        {
           "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
           "url": "https://flash.jin10.com/detail/20260314115534678800",
           "source": "金十数据",
@@ -380,40 +418,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 07时35分]"
-        },
-        {
-          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
-          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
-          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
-          "url": "https://wallstreetcn.com/articles/3767517",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
-          "title": "特朗普声称伊朗已被“彻底击败”",
-          "url": "https://wallstreetcn.com/livenews/3070086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 14时58分]"
         },
         {
           "title": "美国参议院民主党成员Warren：只要特朗普政府没有撤销鲍威尔调查，参议院就不会审议凯文·沃什的美联储主席提名资格。",
@@ -646,8 +650,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 14时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 15时41分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -658,8 +662,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时34分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时34分 ~ 15时41分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -874,6 +878,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 07时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高金价下购买金银饰品怎样避雷",
+          "url": "https://www.toutiao.com/trending/7616975414958755374/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     }

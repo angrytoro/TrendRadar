@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T22:51:04.644901+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2026-03-20T23:51:28.718062+08:00",
+  "total_titles_processed": 1969,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时42分 ~ 22时51分]"
+          "appearance_count": 17,
+          "time_info": "[05时42分 ~ 23时51分]"
         },
         {
           "title": "全世界都被特朗普逗笑了，除了高市早苗",
@@ -143,17 +143,6 @@
           "time_info": "[13时57分 ~ 18时46分]"
         },
         {
-          "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
-          "url": "https://wallstreetcn.com/livenews/3074231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
           "title": "特朗普见高市早苗提偷袭珍珠港",
           "url": "https://news.ifeng.com/c/8rdFpy1BUv6",
           "source": "凤凰网",
@@ -176,6 +165,51 @@
           "time_info": "12时52分"
         },
         {
+          "title": "美国总统特朗普：伊朗需要10年才能重建。",
+          "url": "https://flash.jin10.com/detail/20260320233659653800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
+          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 23时51分]"
+        },
+        {
+          "title": "向特朗普提问的日本记者遭网暴",
+          "url": "https://www.toutiao.com/trending/7619256399495233563/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "特朗普：伊朗重建需要耗时十年。",
+          "url": "https://wallstreetcn.com/livenews/3074250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260320030056140800",
           "source": "金十数据",
@@ -187,16 +221,16 @@
           "time_info": "03时07分"
         },
         {
-          "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
-          "url": "https://news.ifeng.com/c/8reXnxHbSXD",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：相比俄罗斯总统普京，乌克兰总统泽连斯基更难打交道。",
+          "url": "https://wallstreetcn.com/livenews/3074231",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            2,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 22时51分]"
+          "appearance_count": 2,
+          "time_info": "[22时51分 ~ 23时51分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -224,6 +258,18 @@
           "time_info": "[16时51分 ~ 18时46分]"
         },
         {
+          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2320056",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时51分]"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
           "url": "https://flash.jin10.com/detail/20260320061455278800",
           "source": "金十数据",
@@ -248,17 +294,6 @@
           "time_info": "[04时47分 ~ 05时42分]"
         },
         {
-          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2320056",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
-        },
-        {
           "title": "特朗普肖像将登美建国250周年纪念币",
           "url": "https://www.toutiao.com/trending/7619105580468158510/",
           "source": "今日头条",
@@ -279,6 +314,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "美国总统特朗普：你等着瞧吧。古巴的好日子已经过去了。",
+          "url": "https://flash.jin10.com/detail/20260320233329658800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
+        },
+        {
+          "title": "特朗普：美军在伊朗战争中表现“极为出色”",
+          "url": "https://flash.jin10.com/detail/20260320233248421800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
@@ -312,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "特朗普：想和伊朗谈，但对方没领导人了",
+          "url": "https://flash.jin10.com/detail/20260320233059854800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。 这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC）",
@@ -375,7 +443,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -466,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
+        },
+        {
+          "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "美国总统特朗普结束白宫新闻发布会。",
@@ -562,7 +641,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
@@ -576,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "美国总统特朗普祝贺美国联邦通信委员会（FCC）主席在应对“假新闻”方面的工作。",
+          "url": "https://flash.jin10.com/detail/20260320230219947800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         }
       ]
     },
@@ -608,6 +698,19 @@
           "time_info": "[00时02分 ~ 07时36分]"
         },
         {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时13分 ~ 23时51分]"
+        },
+        {
           "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3073561",
           "source": "华尔街见闻-快讯",
@@ -620,28 +723,17 @@
           "time_info": "[04时47分 ~ 05时42分]"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 22时51分]"
-        },
-        {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时13分 ~ 22时51分]"
+          "appearance_count": 4,
+          "time_info": "[21时13分 ~ 23时51分]"
         },
         {
           "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
@@ -769,7 +861,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价暴跌 有金店一天狂卖3斤黄金",
@@ -798,6 +890,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时36分]"
+        },
+        {
+          "title": "【黄金本周表现恐创逾四十年来最糟，伊朗战争开打以来周线三连跌】黄金恐将录得1983年以来最大单周跌幅，现货黄金本周迄今累计跌超9%，势将连续第八个交易日下跌，创2023年10月以来最长连跌；COMEX黄金期货本周已累跌将近10%。中东战争推高能源价格，并削弱了市场对降息的预期。自美国和以色列上月开始袭击伊朗以来，被普遍视为避险资产的黄金每周都遭遇下跌。金价回落之际，美国国债收益率和美元走强，投资者抛售黄金以弥补其他资产损失，黄金ETF出现资金流出，全球持仓已抹去年初以来全部增量。彭博汇编的数据显示，黄金ETF将连续第三周出现资金流出，期间持仓减少逾60吨。",
+          "url": "https://wallstreetcn.com/livenews/3074251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时51分"
         },
         {
           "title": "金价",
@@ -983,7 +1086,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         }
@@ -1003,8 +1106,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时37分 ~ 22时51分]"
+          "appearance_count": 14,
+          "time_info": "[10时37分 ~ 23时51分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -1022,11 +1125,12 @@
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时51分]"
         },
         {
           "title": "周四（3月19日，美联储宣布按兵不动的次日）纽约尾盘，美国10年期基准国债收益率跌1.57个基点，报4.2493%，日内交投于4.3221%-4.2356%区间，在英国央行宣布按兵不动之后刷新日高，北京时间03:00出现一波显著的跳水行情。 两年期美债收益率涨1.74个基点，报3.7924%，日内交投于3.7565%-3.9532%区间，英国央行宣布政策利率决定之后迅速扩大涨幅。",
@@ -1046,7 +1150,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         }
@@ -1115,8 +1219,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时37分 ~ 22时51分]"
+          "appearance_count": 5,
+          "time_info": "[19时37分 ~ 23时51分]"
         },
         {
           "title": "贵金属价格狂泄！现货黄金逼近4500美元，白银大跌超13%",

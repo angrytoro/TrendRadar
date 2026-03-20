@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T13:57:56.499267+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-03-20T15:08:15.262377+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -49,8 +49,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 13时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时08分]"
+        },
+        {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时42分 ~ 15时08分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -67,29 +81,15 @@
           "time_info": "[00时02分 ~ 10时37分]"
         },
         {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时42分 ~ 13时57分]"
-        },
-        {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 15时08分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -103,6 +103,17 @@
           "time_info": "[03时07分 ~ 07时36分]"
         },
         {
+          "title": "全世界都被特朗普逗笑了，除了高市早苗",
+          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时08分]"
+        },
+        {
           "title": "近90条帖子直播战争：特朗普的Truth Social正在指挥中东",
           "url": "https://flash.jin10.com/detail/20260320123515383800",
           "source": "金十数据",
@@ -112,6 +123,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
+          "url": "https://www.cls.cn/detail/2318930",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时08分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：是特朗普告诉我的，不是我告诉他的。他在当选后，我在海湖庄园告诉他，在这一任期内，我们需要确保伊朗不拥有核武器。",
@@ -137,27 +161,15 @@
           "time_info": "[03时07分 ~ 04时47分]"
         },
         {
-          "title": "全世界都被特朗普逗笑了，除了高市早苗",
-          "url": "https://news.ifeng.com/c/8rdmWWFqwvD",
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
-        },
-        {
-          "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
-          "url": "https://www.cls.cn/detail/2318930",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
+          "time_info": "[13时57分 ~ 15时08分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
@@ -217,24 +229,13 @@
           "time_info": "04时47分"
         },
         {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "特朗普强买格陵兰岛差点引发战争？丹麦军方被曝曾暗中备战",
           "url": "https://flash.jin10.com/detail/20260320133836435800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -388,7 +389,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         },
@@ -474,11 +475,12 @@
           "ranks": [
             12,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时08分]"
         },
         {
           "title": "金价暴跌 有金店一天狂卖3斤黄金",
@@ -487,22 +489,24 @@
           "ranks": [
             23,
             17,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时08分]"
         },
         {
           "title": "金价持续下跌",
           "url": "https://www.douyin.com/hot/2436866",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时08分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股市两天重挫超6.2%，金价同期已跌约8%",
@@ -585,8 +589,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 13时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时36分 ~ 15时08分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -795,8 +799,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 15时08分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -873,7 +877,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }

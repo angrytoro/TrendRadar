@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:55:07.256924+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-03-21T15:37:53.564501+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 14时55分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 15时37分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时35分 ~ 14时55分]"
+          "appearance_count": 10,
+          "time_info": "[06时35分 ~ 15时37分]"
         },
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
@@ -54,11 +54,24 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 15时37分]"
+        },
+        {
+          "title": "美日领导人会晤，特朗普只想聊伊朗",
+          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时35分 ~ 14时55分]"
+          "time_info": "[10时31分 ~ 15时37分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -84,18 +97,6 @@
           "time_info": "[00时53分 ~ 10时31分]"
         },
         {
-          "title": "美日领导人会晤，特朗普只想聊伊朗",
-          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时55分]"
-        },
-        {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
           "source": "澎湃新闻",
@@ -108,8 +109,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 14时55分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 15时37分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -148,17 +149,6 @@
           "time_info": "[06时35分 ~ 07时35分]"
         },
         {
-          "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 05时37分]"
-        },
-        {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
           "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
           "source": "澎湃新闻",
@@ -168,8 +158,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时37分]"
         },
         {
           "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
@@ -181,8 +171,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时37分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时36分 ~ 05时37分]"
         },
         {
           "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
@@ -192,8 +193,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时55分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时37分]"
+        },
+        {
+          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
+          "url": "https://flash.jin10.com/detail/20260321115027994800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 15时37分]"
         },
         {
           "title": "周五（3月20日），降息赢家指数跌2.23%，报84.87点，本周累计下跌2.49%。 “特朗普关税输家”指数跌2.56%，本周累跌2.01%；“特朗普金融指数”涨0.35%，本周累涨1.46%。 散户抱团概念股指数/迷因股（meme stock）指数跌3.65%，本周累跌2.78%。",
@@ -207,19 +222,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时40分 ~ 06时36分]"
-        },
-        {
-          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
-          "url": "https://flash.jin10.com/detail/20260321115027994800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 14时55分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
@@ -602,8 +604,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时53分 ~ 14时55分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 15时37分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -611,11 +613,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 14时55分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 15时37分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -625,8 +628,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时37分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -644,6 +647,19 @@
           "time_info": "[00时53分 ~ 10时31分]"
         },
         {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 15时37分]"
+        },
+        {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260321040633903800",
           "source": "金十数据",
@@ -653,18 +669,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时35分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 14时55分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -857,11 +861,12 @@
             25,
             12,
             22,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 14时55分]"
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 15时37分]"
         },
         {
           "title": "金价大跌情侣火速买五金",
@@ -876,6 +881,18 @@
           "time_info": "[12时42分 ~ 14时55分]"
         },
         {
+          "title": "金价大跌 情侣火速买五金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%83%85%E4%BE%A3%E7%81%AB%E9%80%9F%E4%B9%B0%E4%BA%94%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 15时37分]"
+        },
+        {
           "title": "“你好通胀，再见降息”，值金价10%的跌幅？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260321113654707800",
           "source": "金十数据",
@@ -887,18 +904,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时43分 ~ 14时55分]"
-        },
-        {
-          "title": "金价大跌 情侣火速买五金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%83%85%E4%BE%A3%E7%81%AB%E9%80%9F%E4%B9%B0%E4%BA%94%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时55分]"
         },
         {
           "title": "金价两天跌百元 新人纷纷抄底五金",
@@ -976,8 +981,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 15时37分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",

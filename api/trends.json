@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T05:43:45.267020+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-03-24T06:45:51.904424+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "特朗普：美伊过去两天已进行对话",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美” 已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
@@ -84,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -95,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "美以伊战争丨特朗普：这一次，伊朗是认真的",
@@ -106,8 +106,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时43分 ~ 05时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时43分 ~ 06时45分]"
         },
         {
           "title": "特朗普称美伊进行了富有成效的对话",
@@ -116,11 +116,12 @@
           "ranks": [
             13,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
@@ -129,11 +130,12 @@
           "ranks": [
             18,
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "特朗普称美伊已对话",
@@ -173,6 +175,18 @@
           "time_info": "01时02分"
         },
         {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 06时45分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗想要和平，已同意不拥有核武器；将给伊朗五天时间。",
           "url": "https://flash.jin10.com/detail/20260324005202135800",
           "source": "金十数据",
@@ -193,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "美国总统特朗普：伊朗还有一次机会来停止对美国的威胁，世界很快就会安全得多。",
@@ -217,16 +242,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
+          "title": "美媒：特朗普政府评估扶持伊朗议会议长掌权的可能性",
+          "url": "https://flash.jin10.com/detail/20260324060855877800",
+          "source": "金十数据",
           "ranks": [
-            22,
-            23
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 05时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "周一（3月23日），降息赢家指数涨3.14%，报87.54点，跳空高开之后，整体高位震荡——呈现出平坦的M形走势。 “特朗普关税输家”指数涨2.99%，“特朗普金融指数”涨1.77%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.48%。",
@@ -249,8 +273,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时43分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时45分]"
+        },
+        {
+          "title": "美国加州总检察长：加州就特朗普紧急命令重启的赛布尔（Sable）输油管道项目，对美国能源部提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20260324044955819800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时45分]"
         },
         {
           "title": "欧洲天然气期货跌约6%，投资者关注特朗普的“与伊朗谈判”论调",
@@ -263,6 +299,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时00分 ~ 03时09分]"
+        },
+        {
+          "title": "特朗普称推迟对伊朗能源设施打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8E%A8%E8%BF%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时45分]"
         },
         {
           "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
@@ -301,6 +349,18 @@
           "time_info": "[04时43分 ~ 05时43分]"
         },
         {
+          "title": "美国加州总检察长就Sable管道命令起诉总统特朗普的联邦政府。",
+          "url": "https://wallstreetcn.com/livenews/3075420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时45分]"
+        },
+        {
           "title": "美国总统特朗普：我们已经消灭了伊朗境内所有值得消灭的对象，包括其领导人。",
           "url": "https://flash.jin10.com/detail/20260324004757885800",
           "source": "金十数据",
@@ -321,28 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
-        },
-        {
-          "title": "美国加州总检察长：加州就特朗普紧急命令重启的赛布尔（Sable）输油管道项目，对美国能源部提起诉讼。",
-          "url": "https://flash.jin10.com/detail/20260324044955819800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
-          "title": "特朗普称推迟对伊朗能源设施打击",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%8E%A8%E8%BF%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
         },
         {
           "title": "美国总统特朗普：正与伊朗进行磋商，以确定能否达成更广泛的协议。这次伊朗是认真的，他们想解决问题。",
@@ -411,17 +449,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "美国加州总检察长就Sable管道命令起诉总统特朗普的联邦政府。",
-          "url": "https://wallstreetcn.com/livenews/3075420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
-        },
-        {
           "title": "据天空新闻；以色列安全消息人士表示，要对特朗普关于推迟对伊朗打击的说法“持保留态度”。",
           "url": "https://flash.jin10.com/detail/20260324002935925800",
           "source": "金十数据",
@@ -442,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时00分"
+        },
+        {
+          "title": "据美国政治新闻网站Politico：特朗普政府正暗中评估将伊朗议会议长加利巴夫作为潜在合作伙伴，甚至是未来伊朗领导人的可能性。",
+          "url": "https://flash.jin10.com/detail/20260324054217364800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "伊朗官员：特朗普无权为谈判设定条件或最后期限",
@@ -524,25 +562,25 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
-        },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
           "url": "https://www.cls.cn/detail/2321917",
           "source": "财联社热门",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -556,8 +594,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "美股",
@@ -567,11 +605,12 @@
             22,
             18,
             16,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "美股期指金银快速反弹",
@@ -584,8 +623,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时45分]"
+        },
+        {
+          "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（3月23日），美国科技股七巨头（Magnificent 7）指数涨1.36%，报187.71点。 “超大”市值科技股指数涨1.67%，报358.31点。",
@@ -594,7 +644,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         },
@@ -647,6 +697,28 @@
           "time_info": "[04时43分 ~ 05时43分]"
         },
         {
+          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2322200",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨3.5%，亚马逊涨超2.3%",
+          "url": "https://wallstreetcn.com/livenews/3075432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
           "title": "数字货币市场在美股盘前短线拉升，比特币、以太币目前涨超3%",
           "url": "https://wallstreetcn.com/livenews/3075343",
           "source": "华尔街见闻-快讯",
@@ -671,8 +743,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "金价急跌原因",
@@ -682,8 +754,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "金价接连失守4500、4400、4300、4200、4100美元，避险功能为何“失灵”？",
@@ -692,11 +764,12 @@
           "ranks": [
             20,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时43分]"
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时45分]"
         },
         {
           "title": "金价大跌后还会回升吗",
@@ -777,11 +850,12 @@
           "url": "https://flash.jin10.com/detail/20260324051252587800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 06时45分]"
         },
         {
           "title": "美元指数跌超0.6%，日元一度涨向158",

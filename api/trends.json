@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T21:08:05.706768+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-03-28T22:38:42.647651+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普发出威胁：下一个是古巴",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 21时08分]"
+          "appearance_count": 12,
+          "time_info": "[12时59分 ~ 22时38分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时43分 ~ 21时08分]"
+          "appearance_count": 13,
+          "time_info": "[10时43分 ~ 22时38分]"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -81,8 +81,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时04分 ~ 21时08分]"
+          "appearance_count": 19,
+          "time_info": "[03时04分 ~ 22时38分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -94,8 +94,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时48分 ~ 21时08分]"
+          "appearance_count": 9,
+          "time_info": "[15时48分 ~ 22时38分]"
+        },
+        {
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时44分 ~ 22时38分]"
         },
         {
           "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
@@ -109,18 +121,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[05时42分 ~ 14时05分]"
-        },
-        {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时44分 ~ 21时08分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -457,6 +457,18 @@
           "time_info": "[05时42分 ~ 07时40分]"
         },
         {
+          "title": "特朗普谈中国：对中国的成就必须非常尊重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 22时38分]"
+        },
+        {
           "title": "美国总统特朗普：在国土安全部（DHS）拨款问题上，我理解众议长约翰逊和参议院多数党领袖约翰·图恩（John Thune）。",
           "url": "https://wallstreetcn.com/livenews/3078481",
           "source": "华尔街见闻-快讯",
@@ -579,17 +591,6 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
-          "title": "特朗普谈中国：对中国的成就必须非常尊重",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32849114",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
-        },
-        {
           "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
           "source": "澎湃新闻",
@@ -632,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
+          "url": "https://wallstreetcn.com/livenews/3078609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "美国总统特朗普：将在迈阿密发表一场关于经济的盛大演讲。我们在伊朗的军事行动进展顺利！",
@@ -725,8 +737,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时39分 ~ 21时08分]"
+          "appearance_count": 15,
+          "time_info": "[07时39分 ~ 22时38分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -739,8 +751,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时40分 ~ 21时08分]"
+          "appearance_count": 16,
+          "time_info": "[06时40分 ~ 22时38分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -779,8 +791,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时04分 ~ 21时08分]"
+          "appearance_count": 11,
+          "time_info": "[14时04分 ~ 22时38分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -996,8 +1008,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 21时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 22时38分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -1013,11 +1025,12 @@
             13,
             16,
             19,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 21时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 22时38分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -1037,8 +1050,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时00分 ~ 21时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时00分 ~ 22时38分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -1108,8 +1121,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时39分 ~ 21时08分]"
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 22时38分]"
         },
         {
           "title": "金价大跌后迎抄底资金，分析师：结构性利好仍存",
@@ -1143,8 +1156,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时59分 ~ 21时08分]"
+          "appearance_count": 12,
+          "time_info": "[12时59分 ~ 22时38分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
@@ -1167,8 +1180,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时07分 ~ 21时08分]"
+          "appearance_count": 3,
+          "time_info": "[21时07分 ~ 22时38分]"
         }
       ]
     },

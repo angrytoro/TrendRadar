@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T10:43:23.415015+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-03-28T12:59:44.729397+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普与莫迪通话讨论中东局势，马斯克参与",
@@ -40,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时04分 ~ 10时43分]"
+          "appearance_count": 8,
+          "time_info": "[03时04分 ~ 12时59分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -98,11 +98,25 @@
           "ranks": [
             1,
             4,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 12时59分]"
+        },
+        {
+          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
+          "url": "https://wallstreetcn.com/articles/3768556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时42分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普：我们将公布新的柴油指导方针。",
@@ -160,26 +174,26 @@
           "time_info": "07时40分"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://wallstreetcn.com/livenews/3078530",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：看看中国的制造业 不管你喜不喜欢中国 但你必须尊重中国",
+          "url": "https://flash.jin10.com/detail/20260328122854546800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "12时59分"
         },
         {
-          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
-          "url": "https://wallstreetcn.com/livenews/3078529",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称必须尊重中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BF%85%E9%A1%BB%E5%B0%8A%E9%87%8D%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "12时59分"
         },
         {
           "title": "美国总统特朗普：要求为农民提供额外农业援助。",
@@ -199,9 +213,34 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们想要低利率，无通胀。",
+          "url": "https://wallstreetcn.com/livenews/3078505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时40分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "美国总统特朗普：我们同意向沙特出售F-35战斗机；F-35性能卓越；我们出售的数量非常有限；我们不希望其他国家拥有它们。",
@@ -213,32 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "预测\"特朗普何时结束战争\"？这是五大关键点",
-          "url": "https://wallstreetcn.com/articles/3768556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时42分 ~ 10时43分]"
-        },
-        {
-          "title": "美国总统特朗普：我们想要低利率，无通胀。",
-          "url": "https://wallstreetcn.com/livenews/3078505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 10时43分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -267,6 +280,18 @@
           "time_info": "[06时40分 ~ 10时43分]"
         },
         {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://wallstreetcn.com/livenews/3078530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 12时59分]"
+        },
+        {
           "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3078502",
           "source": "华尔街见闻-快讯",
@@ -290,6 +315,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
+          "url": "https://wallstreetcn.com/livenews/3078529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普：我们想要低利率，无通胀。",
@@ -342,6 +379,17 @@
           "time_info": "[05时42分 ~ 07时40分]"
         },
         {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 12时59分]"
+        },
+        {
           "title": "美国总统特朗普谈伊朗：我们还有另外3554个目标要完成，这些目标将很快就会被完成。",
           "url": "https://flash.jin10.com/detail/20260328055758587800",
           "source": "金十数据",
@@ -352,6 +400,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普：我要感谢整个沙特阿拉伯王国；他们给予了我很大的帮助，这与北约截然不同。",
@@ -414,15 +474,16 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
+          "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
+          "url": "https://wallstreetcn.com/livenews/3078512",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            19,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 12时59分]"
         },
         {
           "title": "美国总统特朗普：（在演讲中对农民表示）就你们所知，我们在伊朗问题上做得很好。",
@@ -436,15 +497,15 @@
           "time_info": "01时05分"
         },
         {
-          "title": "特朗普称霍尔木兹为特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3078525",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "12时59分"
         },
         {
           "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
@@ -513,17 +574,6 @@
           "time_info": "04时47分"
         },
         {
-          "title": "美国总统特朗普谈伊朗冲突：差不多结束了，但还没结束。",
-          "url": "https://wallstreetcn.com/livenews/3078512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
           "url": "https://flash.jin10.com/detail/20260328034803956800",
           "source": "金十数据",
@@ -588,6 +638,19 @@
           "time_info": "[00时00分 ~ 07时40分]"
         },
         {
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时40分 ~ 12时59分]"
+        },
+        {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2327400",
           "source": "财联社热门",
@@ -602,19 +665,6 @@
           "time_info": "[00时00分 ~ 07时40分]"
         },
         {
-          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
-          "url": "https://www.cls.cn/detail/2327695",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时40分 ~ 10时43分]"
-        },
-        {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
           "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
@@ -622,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 12时59分]"
         },
         {
           "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
@@ -676,7 +726,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -750,7 +800,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -790,11 +840,12 @@
             11,
             7,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 10时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 12时59分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -805,11 +856,12 @@
             19,
             14,
             12,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 10时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 12时59分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -820,11 +872,12 @@
             15,
             14,
             17,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 10时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 12时59分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -835,11 +888,12 @@
             14,
             15,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时00分 ~ 10时43分]"
+          "appearance_count": 11,
+          "time_info": "[00时00分 ~ 12时59分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -889,6 +943,36 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
+          "url": "https://wallstreetcn.com/livenews/3078500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 10时43分]"
+        },
+        {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -913,25 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
-          "url": "https://wallstreetcn.com/livenews/3078500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时40分 ~ 10时43分]"
         }
       ]
     }

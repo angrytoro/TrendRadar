@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T01:41:12.049051+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-04-20T03:01:33.758558+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
         },
         {
           "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
@@ -48,19 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
         },
         {
           "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
           "url": "https://wallstreetcn.com/articles/3770356",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
         },
         {
           "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
@@ -71,8 +72,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
+        },
+        {
+          "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006081",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
         },
         {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
@@ -80,22 +93,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
-        },
-        {
-          "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006081",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "美国总统特朗普：伊朗内部温和派与强硬派之间存在持续冲突。",
@@ -103,11 +106,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
@@ -117,8 +121,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）",
@@ -128,20 +132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
-        },
-        {
-          "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260419233905048800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判",
@@ -151,8 +143,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
         },
         {
           "title": "特朗普边称要谈判边威胁伊朗",
@@ -160,6 +152,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
+        },
+        {
+          "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260419233905048800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -190,19 +194,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
         },
         {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
           "url": "https://wallstreetcn.com/articles/3770342",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 01时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 03时01分]"
         }
       ]
     },
@@ -218,8 +223,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时01分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T11:42:14.800907+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-05-07T14:53:05.214410+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 07时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 14时53分]"
         },
         {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
@@ -28,8 +29,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时53分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 14时53分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
         },
         {
           "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
@@ -55,17 +89,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 07时56分]"
-        },
-        {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -134,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -258,6 +292,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "霍尔木兹海峡再不开，特朗普的中期选举就要“没油”了",
+          "url": "https://flash.jin10.com/detail/20260507142601106800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "特朗普：伊朗已同意不拥有核武器",
           "url": "https://wallstreetcn.com/livenews/3099542",
           "source": "华尔街见闻-快讯",
@@ -286,7 +331,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -346,6 +391,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "报道称沙特不满迫使特朗普“突然”叫停“自由计划”",
+          "url": "https://wallstreetcn.com/livenews/3099775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
           "url": "https://flash.jin10.com/detail/20260507054528380800",
           "source": "金十数据",
@@ -363,7 +419,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
@@ -381,8 +437,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时02分 ~ 11时42分]"
+          "appearance_count": 6,
+          "time_info": "[06时02分 ~ 14时53分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -397,6 +453,18 @@
           "time_info": "[00时54分 ~ 04时29分]"
         },
         {
+          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
+          "url": "https://www.cls.cn/detail/2364348",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时53分]"
+        },
+        {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2364164",
           "source": "财联社热门",
@@ -409,18 +477,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 11时42分]"
-        },
-        {
-          "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
-          "url": "https://www.cls.cn/detail/2364348",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 11时42分]"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -549,6 +605,56 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国际金价持续走高",
+          "url": "https://flash.jin10.com/detail/20260507144002853800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 07时56分]"
+        },
+        {
+          "title": "金十图示：2026年05月07日（周四）上海金早盘价为1032.36元/克，较国际金价(1029.35元/克)高3.01元/克",
+          "url": "https://flash.jin10.com/detail/20260507110341702800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "金价涨2.8%，逼近4700美元",
+          "url": "https://wallstreetcn.com/livenews/3099570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -587,45 +693,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 07时56分]"
-        },
-        {
-          "title": "金十图示：2026年05月07日（周四）上海金早盘价为1032.36元/克，较国际金价(1029.35元/克)高3.01元/克",
-          "url": "https://flash.jin10.com/detail/20260507110341702800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "金价涨2.8%，逼近4700美元",
-          "url": "https://wallstreetcn.com/livenews/3099570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
         }
       ]
     },

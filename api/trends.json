@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T16:45:56.369017+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-05-09T18:12:12.821829+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -43,6 +43,18 @@
           "time_info": "[00时21分 ~ 14时22分]"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 18时12分]"
+        },
+        {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -52,18 +64,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 16时45分]"
         },
         {
           "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
@@ -77,6 +77,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 18时12分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯与乌克兰之间的战争将于5月9日、10日和11日停火三天。",
           "url": "https://flash.jin10.com/detail/20260509020138509800",
           "source": "金十数据",
@@ -86,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260509175807708800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "美国总统特朗普将于十分钟后发表讲话。",
@@ -124,15 +146,40 @@
           "time_info": "[00时21分 ~ 06时03分]"
         },
         {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时50分 ~ 16时45分]"
+          "time_info": "[14时22分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
+          "url": "https://www.zhihu.com/question/2036400046988579032",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时12分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -158,6 +205,18 @@
           "time_info": "[02时14分 ~ 04时10分]"
         },
         {
+          "title": "伊朗外交部发言人：（特朗普的）“挑衅性行为”以及为其辩护的企图，都掩盖不了其自身的可耻行径。这预示着美伊紧张局势将进一步升级。",
+          "url": "https://flash.jin10.com/detail/20260509155826291800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 18时12分]"
+        },
+        {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
           "url": "https://wallstreetcn.com/livenews/3100857",
           "source": "华尔街见闻-快讯",
@@ -170,16 +229,16 @@
           "time_info": "[02时14分 ~ 04时10分]"
         },
         {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
+          "title": "伊朗外交部发言人强烈谴责特朗普近期就美国对伊朗油轮发动袭击所发表的淡化言论。",
+          "url": "https://flash.jin10.com/detail/20260509155657238800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9
+            9,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时22分 ~ 16时45分]"
+          "time_info": "[16时45分 ~ 18时12分]"
         },
         {
           "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
@@ -191,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "伊朗外交部发言人：（特朗普的）“挑衅性行为”以及为其辩护的企图，都掩盖不了其自身的可耻行径。这预示着美伊紧张局势将进一步升级。",
-          "url": "https://flash.jin10.com/detail/20260509155826291800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "美国总统特朗普：可能会（在霍尔木兹海峡通航问题上）重拾“自由计划”。 可能会是一个“加强版的自由计划”（project freedom plus）。 如果伊朗不签署协议，美方可能重启“自由计划”。",
@@ -226,17 +274,6 @@
           "time_info": "02时14分"
         },
         {
-          "title": "伊朗外交部发言人强烈谴责特朗普近期就美国对伊朗油轮发动袭击所发表的淡化言论。",
-          "url": "https://flash.jin10.com/detail/20260509155657238800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
           "title": "美国总统特朗普谈汉坦病毒，宣称：情况良好可控。",
           "url": "https://wallstreetcn.com/livenews/3100955",
           "source": "华尔街见闻-快讯",
@@ -257,17 +294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "美国总统特朗普：与巴西总统卢拉讨论了所有事，包括关税。",
@@ -345,17 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
-          "url": "https://www.zhihu.com/question/2036400046988579032",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -481,8 +496,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时50分 ~ 16时45分]"
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 18时12分]"
+        },
+        {
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 18时12分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -495,19 +523,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时21分 ~ 06时03分]"
-        },
-        {
-          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
-          "url": "https://www.cls.cn/detail/2366633",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 16时45分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -676,6 +691,30 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时22分 ~ 18时12分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时45分 ~ 18时12分]"
+        },
+        {
           "title": "ChatGPT的恐怖我后知后觉",
           "url": "https://s.weibo.com/weibo?q=ChatGPT%E7%9A%84%E6%81%90%E6%80%96%E6%88%91%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -685,28 +724,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时50分 ~ 11时51分]"
-        },
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时22分 ~ 16时45分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         }
       ]
     },

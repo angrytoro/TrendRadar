@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T18:12:12.821829+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-05-09T19:55:37.752396+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 19时55分]"
         },
         {
           "title": "伊朗战争丨特朗普称可能恢复“自由计划”",
@@ -66,6 +66,17 @@
           "time_info": "[11时50分 ~ 11时51分]"
         },
         {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 19时55分]"
+        },
+        {
           "title": "美国总统特朗普：此次停火将包括暂停所有军事行动，并进行两国各1000名囚犯的交换。",
           "url": "https://flash.jin10.com/detail/20260509020204572800",
           "source": "金十数据",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 18时12分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯与乌克兰之间的战争将于5月9日、10日和11日停火三天。",
@@ -105,7 +105,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -146,6 +146,19 @@
           "time_info": "[00时21分 ~ 06时03分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 19时55分]"
+        },
+        {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
           "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
@@ -158,28 +171,17 @@
           "time_info": "[14时22分 ~ 18时12分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 18时12分]"
-        },
-        {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
           "url": "https://www.zhihu.com/question/2036400046988579032",
           "source": "知乎",
           "ranks": [
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 18时12分]"
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 19时55分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -472,6 +474,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-09）",
+          "url": "https://flash.jin10.com/detail/20260509182305293800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "特朗普说或把部分驻德美军转移至波兰",
           "url": "https://wallstreetcn.com/livenews/3100978",
           "source": "华尔街见闻-快讯",
@@ -496,8 +509,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时50分 ~ 18时12分]"
+          "appearance_count": 7,
+          "time_info": "[11时50分 ~ 19时55分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -509,8 +522,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时01分 ~ 19时55分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -648,6 +661,59 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 19时55分]"
+        },
+        {
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 19时55分]"
+        },
+        {
+          "title": "ChatGPT的恐怖我后知后觉",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E7%9A%84%E6%81%90%E6%80%96%E6%88%91%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 11时51分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -683,47 +749,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 18时12分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 18时12分]"
-        },
-        {
-          "title": "ChatGPT的恐怖我后知后觉",
-          "url": "https://s.weibo.com/weibo?q=ChatGPT%E7%9A%84%E6%81%90%E6%80%96%E6%88%91%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T07:56:07.791170+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-05-10T11:52:18.633382+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 07时56分]"
+          "appearance_count": 5,
+          "time_info": "[04时53分 ~ 11时52分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -65,11 +66,12 @@
           "url": "https://news.ifeng.com/c/8szUPi5xnTB",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 07时56分]"
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 11时52分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -146,19 +148,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时56分]"
-        },
-        {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
           "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
@@ -166,6 +155,19 @@
             10,
             9,
             8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 11时52分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -197,8 +199,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时53分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 11时52分]"
         }
       ]
     },

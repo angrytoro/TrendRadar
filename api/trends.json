@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:59:14.275501+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-05-10T18:22:47.714417+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,18 @@
           "time_info": "[04时53分 ~ 16时59分]"
         },
         {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 18时22分]"
+        },
+        {
           "title": "俄方同意特朗普提出的停火方案",
           "url": "https://www.toutiao.com/trending/7637290812788162601/",
           "source": "今日头条",
@@ -50,18 +62,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时07分 ~ 06时55分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 16时59分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -251,11 +251,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 18时22分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
@@ -264,7 +265,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }

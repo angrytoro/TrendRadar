@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T11:52:18.633382+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-05-10T14:38:46.445759+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -28,11 +28,12 @@
             4,
             5,
             6,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时53分 ~ 11时52分]"
+          "appearance_count": 6,
+          "time_info": "[04时53分 ~ 14时38分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -50,6 +51,18 @@
           "time_info": "[01时07分 ~ 06时55分]"
         },
         {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时38分]"
+        },
+        {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
           "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
@@ -60,18 +73,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 03时12分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 11时52分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
@@ -140,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",
+          "url": "https://flash.jin10.com/detail/20260510122534394800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     },
@@ -157,8 +169,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 11时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 14时38分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -206,7 +218,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -230,6 +242,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时02分 ~ 04时53分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     }

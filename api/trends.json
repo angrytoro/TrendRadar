@@ -1,7 +1,11 @@
 {
-  "generated_at": "2026-05-20T16:32:07.517422+08:00",
-  "total_titles_processed": 988,
-  "failed_sources": [],
+  "generated_at": "2026-05-20T20:01:34.201048+08:00",
+  "total_titles_processed": 1128,
+  "failed_sources": [
+    "jin10",
+    "wallstreetcn-quick",
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
@@ -16,8 +20,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 20时01分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -344,7 +348,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -383,6 +387,17 @@
           "time_info": "[12时06分 ~ 16时32分]"
         },
         {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时01分]"
+        },
+        {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
           "url": "https://news.ifeng.com/c/8tG27n1FK2V",
           "source": "凤凰网",
@@ -392,6 +407,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 07时09分]"
+        },
+        {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时01分]"
         },
         {
           "title": "赖清德暗怼特朗普后心虚了",
@@ -663,7 +689,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -702,6 +728,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时25分 ~ 16时32分]"
+        },
+        {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 20时01分]"
+        },
+        {
+          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
+          "url": "https://wallstreetcn.com/articles/3772678",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时01分]"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 20时01分]"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -744,20 +803,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "16时32分"
         },
         {
           "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
@@ -887,6 +935,30 @@
           "time_info": "[00时26分 ~ 05时25分]"
         },
         {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 20时01分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 20时01分]"
+        },
+        {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普、纳指三连跌，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3772605",
           "source": "华尔街见闻",
@@ -896,29 +968,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 16时32分]"
-        },
-        {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "汇丰：10年期美债收益率在危险区，但尚未发出买入信号",

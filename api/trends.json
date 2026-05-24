@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T06:01:29.639845+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-25T07:09:41.528560+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时09分]"
         },
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时09分]"
         },
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时09分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时09分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -61,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时09分]"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -70,11 +70,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时10分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时10分 ~ 07时09分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -88,6 +89,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时06分 ~ 06时01分]"
+        },
+        {
+          "title": "特朗普一季度做了3711笔证券交易",
+          "url": "https://www.toutiao.com/trending/7643303101427879430/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时02分 ~ 07时09分]"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -113,19 +128,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时06分 ~ 06时01分]"
-        },
-        {
-          "title": "特朗普一季度做了3711笔证券交易",
-          "url": "https://www.toutiao.com/trending/7643303101427879430/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时01分]"
         },
         {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
@@ -254,7 +256,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -269,6 +271,17 @@
           "time_info": "[00时05分 ~ 06时01分]"
         },
         {
+          "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260525060644652800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
           "title": "港股、美股周一休市 金银油交易将提前结束",
           "url": "https://flash.jin10.com/detail/20260524212457510800",
           "source": "金十数据",
@@ -278,6 +291,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY跌破99，日内跌0.33%。",
+          "url": "https://flash.jin10.com/detail/20260525063241130800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时09分"
         }
       ]
     }

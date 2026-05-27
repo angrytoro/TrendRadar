@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T13:22:03.507719+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2026-05-27T18:05:25.766319+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,36 @@
             18,
             17,
             16,
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 13时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时30分 ~ 18时05分]"
         },
         {
           "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 18时05分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 18时05分]"
         },
         {
           "title": "美国贸易代表格里尔：特朗普10%全球关税7月到期后或重新征收",
@@ -42,18 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 13时22分]"
         },
         {
           "title": "美伊谈判关键之际，特朗普与内塔尼亚胡通话",
@@ -399,6 +401,36 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多家投行下调金价预判",
+          "url": "https://www.douyin.com/hot/2513019",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时30分 ~ 08时14分]"
+        },
+        {
+          "title": "分析师：美伊冲突引发价格压力 金价或面临更大下行风险",
+          "url": "https://flash.jin10.com/detail/20260527173710660800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -451,25 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "多家投行下调金价预判",
-          "url": "https://www.douyin.com/hot/2513019",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时30分 ~ 08时14分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T17:58:41.986835+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-06-03T22:52:49.611672+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -77,6 +77,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
           "url": "https://flash.jin10.com/detail/20260603052655387800",
           "source": "金十数据",
@@ -94,9 +105,42 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美国财长贝森特：我们存在开支问题和增长问题。 总统特朗普任期届满时，赤字与GDP比率可能会低于4%。",
+          "url": "https://wallstreetcn.com/livenews/3113884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "地产商治国？“小特朗普”将任代理国家情报总监",
@@ -134,6 +178,18 @@
           "time_info": "[07时52分 ~ 12时49分]"
         },
         {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 22时52分]"
+        },
+        {
           "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
           "url": "https://wallstreetcn.com/livenews/3113300",
           "source": "华尔街见闻-快讯",
@@ -145,15 +201,15 @@
           "time_info": "05时53分"
         },
         {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
+          "title": "美国财长贝森特在听证会上宣称：并没有提前知道总统特朗普会起诉（财政部下辖）国税局（IRS）。",
+          "url": "https://wallstreetcn.com/livenews/3113880",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "22时52分"
         },
         {
           "title": "白宫记协晚宴改期至7月，特朗普称计划出席",
@@ -211,6 +267,17 @@
           "time_info": "05时53分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：与美国总统特朗普的关系没有改变。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3113869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "特朗普被曝同以总理通话爆粗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
           "source": "澎湃新闻",
@@ -220,6 +287,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "美国国务卿卢比奥：总统特朗普知道挑起伊朗战争的经济后果。",
+          "url": "https://wallstreetcn.com/livenews/3113867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美国财长贝森特在听证会上宣称：特朗普税法避免了超过5万亿美元的税收增长。",
+          "url": "https://wallstreetcn.com/livenews/3113866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
@@ -247,7 +336,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -258,8 +347,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 17时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 22时52分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -308,26 +397,49 @@
           "time_info": "[02时45分 ~ 05时53分]"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 22时52分]"
+        },
+        {
           "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
           "url": "https://wallstreetcn.com/livenews/3113678",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
         {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "22时52分"
         },
         {
           "title": "网络安全公司NetSkope美股盘后涨3.8%，该公司宣布加入Anthropic的Project Glasswing。",
@@ -339,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "美股开盘：半导体板块维持强势",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E7%BB%B4%E6%8C%81%E5%BC%BA%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
@@ -538,7 +661,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         }

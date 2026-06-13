@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T19:21:00.539255+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-06-13T22:12:38.149001+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -43,6 +43,29 @@
           "time_info": "[12时18分 ~ 12时19分]"
         },
         {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 22时12分]"
+        },
+        {
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
           "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
           "source": "凤凰网",
@@ -54,18 +77,6 @@
           "time_info": "[00时47分 ~ 07时23分]"
         },
         {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时18分 ~ 19时21分]"
-        },
-        {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
           "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
           "source": "凤凰网",
@@ -73,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 22时12分]"
         },
         {
           "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
@@ -128,9 +139,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
@@ -153,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
+          "url": "https://flash.jin10.com/detail/20260613203149483800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
@@ -238,15 +282,18 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            5,
+            2,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 07时23分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 22时12分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -258,21 +305,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 22时12分]"
         },
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            2,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时23分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -285,8 +330,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时54分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[05时54分 ~ 22时12分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -420,6 +465,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 16时26分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -474,24 +548,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 16时26分]"
         }
       ]
     },

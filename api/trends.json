@@ -1,22 +1,46 @@
 {
-  "generated_at": "2026-06-16T05:11:50.576423+08:00",
-  "total_titles_processed": 423,
+  "generated_at": "2026-06-16T07:51:00.007481+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 07时50分]"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 07时50分]"
+        },
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 07时50分]"
         },
         {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
@@ -30,27 +54,15 @@
           "time_info": "[02时02分 ~ 05时11分]"
         },
         {
-          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
-          "url": "https://www.cls.cn/detail/2400213",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：伊朗已同意永远不拥有核武器！此外，美国向伊朗支付3亿美元的消息是假新闻，是由民主党人散布的。",
+          "url": "https://flash.jin10.com/detail/20260616071859347800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时11分]"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
@@ -93,7 +105,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -104,7 +116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -131,6 +143,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国交通部：特朗普政府结束对2024年CrowdStrike故障的调查。",
+          "url": "https://flash.jin10.com/detail/20260616061855394800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "美国总统特朗普谈伊朗核协议：不解除制裁。",
           "url": "https://wallstreetcn.com/livenews/3119812",
           "source": "华尔街见闻-快讯",
@@ -140,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普的官员们周一会见了来自Anthropic的人员。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3119898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "美国总统特朗普声称：我认为“很快”就会披露谅解备忘录（MoU）。 MoU的文本将于周五之后公布。 霍尔木兹海峡免费通行。",
@@ -162,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "美国总统特朗普声称：与法国总统马克龙关系“好极了”。",
@@ -200,7 +245,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -214,15 +259,38 @@
           "time_info": "[02时02分 ~ 05时11分]"
         },
         {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "美伊协议落地，拉美股汇走势分化",
           "url": "https://wallstreetcn.com/livenews/3119879",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 07时50分]"
         },
         {
           "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
@@ -233,8 +301,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 05时11分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 07时50分]"
+        },
+        {
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
@@ -243,7 +322,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -254,7 +333,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -265,7 +344,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -276,7 +355,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -287,7 +366,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -298,7 +377,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -309,7 +388,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -320,7 +399,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -331,7 +410,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -342,7 +421,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -399,6 +478,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
+          "url": "https://wallstreetcn.com/articles/3774702",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "两年期美债收益率跌幅收窄至2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3119855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -409,7 +516,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -420,24 +527,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率跌幅收窄至2.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3119855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }

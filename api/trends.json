@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T17:02:09.775825+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-06-21T19:51:20.472467+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -41,6 +41,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 05时23分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 19时51分]"
         },
         {
           "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
@@ -88,6 +101,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "特朗普：美国正在蓬勃发展 在各个方面“大获全胜”",
+          "url": "https://flash.jin10.com/detail/20260621194301245800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "特朗普高市早苗当众吵起来了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E4%BC%97%E5%90%B5%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -100,18 +124,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 07时15分]"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 17时02分]"
         },
         {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
@@ -183,6 +195,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "意大利总理回击特朗普批评：应关注自身支持率",
           "url": "https://flash.jin10.com/detail/20260621000521186800",
           "source": "金十数据",
@@ -216,6 +239,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-21）",
+          "url": "https://flash.jin10.com/detail/20260621184020175800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
+        },
+        {
           "title": "特朗普指责意大利总理“拒绝美国”",
           "url": "https://flash.jin10.com/detail/20260621000056720800",
           "source": "金十数据",
@@ -241,7 +275,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价年内涨幅尽数回吐，高盛下调目标价，4000美元关口面临考验？",
@@ -280,6 +314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "金价大跌消费者涌入柜台",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%B6%88%E8%B4%B9%E8%80%85%E6%B6%8C%E5%85%A5%E6%9F%9C%E5%8F%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时51分"
         }
       ]
     },
@@ -287,6 +332,20 @@
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时40分 ~ 19时51分]"
+        },
         {
           "title": "1192亿美元！本周美股吸引创纪录资金，投资者涌向科技股",
           "url": "https://wallstreetcn.com/articles/3775107",
@@ -298,19 +357,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时40分 ~ 07时15分]"
-        },
-        {
-          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2404523",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时40分 ~ 17时02分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -335,11 +381,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时53分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时53分 ~ 19时51分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",

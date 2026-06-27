@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T20:11:43.203655+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-06-27T22:46:59.932277+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -19,15 +19,15 @@
           "time_info": "[01时56分 ~ 11时58分]"
         },
         {
-          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
-          "url": "https://flash.jin10.com/detail/20260627191008880800",
-          "source": "金十数据",
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://wallstreetcn.com/livenews/3125610",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时11分"
+          "time_info": "22时46分"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -39,8 +39,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 20时11分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 22时46分]"
+        },
+        {
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 22时46分]"
         },
         {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
@@ -53,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时58分]"
+        },
+        {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 22时46分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
@@ -89,17 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时58分 ~ 05时26分]"
-        },
-        {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
         },
         {
           "title": "委内瑞拉代总统Rodriguez：与美国总统特朗普、国务卿卢比奥通电话，对方向地震后的委内瑞拉表示支持（意图）。",
@@ -144,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普孙女发逛白宫vlog美国网友破防",
+          "url": "https://www.toutiao.com/trending/7656026817400475182/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国务卿鲁比奥：美印推进贸易协议，特朗普可能于明年初访印",
@@ -193,7 +216,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "报道：苹果负责Vision Pro和智能眼镜业务的负责人将跳槽至OpenAI",
@@ -212,11 +235,12 @@
           "url": "https://wallstreetcn.com/articles/3775650",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 20时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 22时46分]"
         },
         {
           "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强",
@@ -252,6 +276,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)公司负责Vision Pro和智能眼镜业务的负责人将离职加入OpenAI。",
@@ -322,8 +357,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 20时11分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 22时46分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -333,8 +368,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 20时11分]"
+          "appearance_count": 5,
+          "time_info": "[11时58分 ~ 22时46分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 22时46分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -348,18 +396,6 @@
           "time_info": "[01时56分 ~ 05时26分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 20时11分]"
-        },
-        {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
@@ -369,8 +405,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 20时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 22时46分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -425,6 +461,18 @@
         },
         {
           "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.toutiao.com/trending/7655931453586849835/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时11分 ~ 22时46分]"
+        },
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
           "source": "百度热搜",
           "ranks": [
@@ -433,17 +481,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
-        },
-        {
-          "title": "金价大跌 有商家称跌没一辆迈巴赫",
-          "url": "https://www.toutiao.com/trending/7655931453586849835/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时11分"
         },
         {
           "title": "金价跌25%银价暴跌45%",

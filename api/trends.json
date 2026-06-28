@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T13:21:31.660256+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-06-28T17:19:40.378133+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -31,6 +31,17 @@
           "time_info": "[00时10分 ~ 08时08分]"
         },
         {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 17时19分]"
+        },
+        {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
           "url": "https://www.cls.cn/detail/2410771",
           "source": "财联社热门",
@@ -42,15 +53,16 @@
           "time_info": "[00时10分 ~ 08时08分]"
         },
         {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
+          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
+          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 17时19分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -89,24 +101,13 @@
           "time_info": "[04时12分 ~ 08时08分]"
         },
         {
-          "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
-          "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
           "url": "https://flash.jin10.com/detail/20260628122518438800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -181,26 +182,50 @@
           "time_info": "[06时08分 ~ 08时08分]"
         },
         {
-          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
-          "url": "https://news.ifeng.com/c/8uJtXiv6RM9",
-          "source": "凤凰网",
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            19,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 17时19分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 17时19分]"
+        },
+        {
+          "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
+          "url": "https://news.ifeng.com/c/8uJtXiv6RM9",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "17时19分"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -209,18 +234,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
@@ -239,8 +253,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 17时19分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -251,8 +265,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 13时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 17时19分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -317,7 +331,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
@@ -334,7 +348,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
@@ -372,8 +386,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 17时19分]"
         }
       ]
     }

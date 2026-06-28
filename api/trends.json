@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T17:19:40.378133+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-06-28T19:50:56.410455+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -20,17 +20,6 @@
           "time_info": "[00时10分 ~ 13时21分]"
         },
         {
-          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
-          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 08时08分]"
-        },
-        {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
           "url": "https://wallstreetcn.com/articles/3775683",
           "source": "华尔街见闻",
@@ -38,15 +27,15 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 19时50分]"
         },
         {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -61,8 +50,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 19时50分]"
+        },
+        {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 08时08分]"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -124,6 +124,19 @@
           "time_info": "[00时10分 ~ 02时10分]"
         },
         {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 19时50分]"
+        },
+        {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
           "url": "https://flash.jin10.com/detail/20260628025551765800",
           "source": "金十数据",
@@ -134,6 +147,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时12分 ~ 08时08分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 19时50分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -171,6 +197,18 @@
           "time_info": "[06时08分 ~ 08时08分]"
         },
         {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 19时50分]"
+        },
+        {
           "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
           "url": "https://flash.jin10.com/detail/20260628041744920800",
           "source": "金十数据",
@@ -182,28 +220,26 @@
           "time_info": "[06时08分 ~ 08时08分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
+          "title": "扛不住成本，苹果游说特朗普政府",
+          "url": "https://news.ifeng.com/c/8uKEvaozU5k",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            14
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 17时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
+          "title": "特朗普再发“灭国”威胁！伊朗：未来30天全面监管霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260628184409542800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            18
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 17时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -217,15 +253,15 @@
           "time_info": "13时21分"
         },
         {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-28）",
+          "url": "https://flash.jin10.com/detail/20260628181334156800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "19时50分"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -237,12 +273,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "特朗普威胁对欧洲国家征收 100% 报复性关税，以回应欧洲国家对美企征收数字服务税，对双方互有什么影响?",
+          "url": "https://www.zhihu.com/question/2054137186371609939",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -253,8 +300,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 17时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 19时50分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -262,11 +309,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 17时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 19时50分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -291,6 +339,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时10分 ~ 06时08分]"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
@@ -383,11 +442,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时07分 ~ 19时50分]"
         }
       ]
     }

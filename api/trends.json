@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T16:20:59.599607+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-07-13T20:13:59.544439+08:00",
+  "total_titles_processed": 1150,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -30,6 +30,17 @@
           "time_info": "[01时05分 ~ 08时06分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时34分 ~ 20时13分]"
+        },
+        {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
           "url": "https://wallstreetcn.com/livenews/3132432",
           "source": "华尔街见闻-快讯",
@@ -42,15 +53,15 @@
           "time_info": "[01时06分 ~ 07时01分]"
         },
         {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：若冗长辩论规则不终止，政府或于9月停摆。",
+          "url": "https://flash.jin10.com/detail/20260713200647541800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 16时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "特朗普命令全美降半旗悼念格雷厄姆",
@@ -59,7 +70,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -75,6 +86,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时59分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 20时13分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -95,18 +117,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -150,7 +161,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -161,7 +172,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         }
@@ -169,8 +180,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 20时13分]"
+        },
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
           "url": "https://wallstreetcn.com/livenews/3132438",
@@ -184,26 +207,26 @@
           "time_info": "[07时01分 ~ 08时06分]"
         },
         {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "美股知名“大空头”看好非科技板块，市场的逻辑正在发生深刻转变！",
           "url": "https://flash.jin10.com/detail/20260713160713817800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
         },
         {
           "title": "在纳斯达克强劲首秀后，SK海力士ADR在美股盘前交易下跌10.4%。",
@@ -212,7 +235,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },
@@ -223,7 +246,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
         },

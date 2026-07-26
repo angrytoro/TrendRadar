@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T12:32:11.262008+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-07-26T15:40:30.902082+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -15,11 +15,38 @@
             7,
             6,
             4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 15时40分]"
+        },
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://wallstreetcn.com/articles/3777934",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
         },
         {
           "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
@@ -44,17 +71,16 @@
           "time_info": "[01时06分 ~ 08时05分]"
         },
         {
-          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
-          "url": "https://wallstreetcn.com/livenews/3139778",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
           "ranks": [
             6,
-            9,
-            17
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
         },
         {
           "title": "美媒曝特朗普暂停打击伊朗内幕",
@@ -63,7 +89,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -73,11 +99,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 15时40分]"
         },
         {
           "title": "以总理计划向特朗普递交伊朗情报",
@@ -85,11 +112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 15时40分]"
         },
         {
           "title": "据地区消息认识透露，美国总统特朗普周五指示军方不要袭击伊朗。 阿曼与伊朗可能在周末达成协议。（Axios）",
@@ -97,11 +125,70 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 15时40分]"
+        },
+        {
+          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
+          "url": "https://wallstreetcn.com/articles/3777933",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普下令暂停打击伊朗",
+          "url": "https://www.toutiao.com/trending/7666608065243778606/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
         },
         {
           "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
@@ -117,48 +204,15 @@
           "time_info": "[04时59分 ~ 08时05分]"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://wallstreetcn.com/articles/3777934",
-          "source": "华尔街见闻",
+          "title": "美国加税，澳总理要找特朗普“理论”",
+          "url": "https://news.ifeng.com/c/8v4ign5CI68",
+          "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
-          "url": "https://wallstreetcn.com/articles/3777933",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "time_info": "[15时39分 ~ 15时40分]"
         },
         {
           "title": "白宫记协晚宴重办，争议比特朗普的段子还大",
@@ -166,28 +220,6 @@
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
-          "title": "特朗普下令暂停打击伊朗",
-          "url": "https://www.toutiao.com/trending/7666608065243778606/",
-          "source": "今日头条",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -206,17 +238,6 @@
           "time_info": "[04时59分 ~ 06时03分]"
         },
         {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%9A%82%E5%81%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
-        },
-        {
           "title": "特朗普调侃白宫记者",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%83%E4%BE%83%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -228,15 +249,37 @@
           "time_info": "[08时04分 ~ 08时05分]"
         },
         {
+          "title": "美媒爆料特朗普已暂时搁置大幅升级对伊朗军事打击计划，白宫方面回应",
+          "url": "https://wallstreetcn.com/livenews/3139812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "美国总统特朗普：所有共和党参议员！终止阻挠议事，民主党人一有机会就会这么做，赶快通过《拯救美国法案》，以及其他一切，包括预算和即将到来的债务上限。现在就去做，别等到太晚。",
           "url": "https://flash.jin10.com/detail/20260726114945161800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "美媒爆料特朗普已暂时搁置大幅升级对伊朗军事打击计划，白宫驳斥",
+          "url": "https://flash.jin10.com/detail/20260726142302228800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -278,7 +321,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -297,7 +340,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -308,8 +351,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 12时32分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 15时40分]"
         },
         {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
@@ -335,6 +378,28 @@
           "time_info": "[01时06分 ~ 08时05分]"
         },
         {
+          "title": "沙特阿美股价早盘下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260726150121535800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时40分]"
+        },
+        {
           "title": "美股已经有人在提前跑路了",
           "url": "https://www.toutiao.com/trending/7666447099256376875/",
           "source": "今日头条",
@@ -345,23 +410,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 03时17分]"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI产品负责人Tibo：ChatGPT Work的活跃用户数量正式超越Codex。",
@@ -370,7 +424,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -399,6 +453,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时59分 ~ 08时05分]"
+        },
+        {
+          "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
+          "url": "https://flash.jin10.com/detail/20260726125707233800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
         }
       ]
     },
@@ -413,7 +478,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         }

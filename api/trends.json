@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T16:37:38.214967+08:00",
-  "total_titles_processed": 986,
+  "generated_at": "2026-07-27T20:31:54.976399+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -42,6 +42,19 @@
           "time_info": "[00时06分 ~ 08时05分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
           "url": "https://www.cls.cn/detail/2437057",
           "source": "财联社热门",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 08时05分]"
-        },
-        {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 16时37分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -84,7 +85,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -101,6 +102,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时05分 ~ 08时05分]"
+        },
+        {
+          "title": "3个选项，特朗普举棋未定",
+          "url": "https://news.ifeng.com/c/8v6CmboAaqd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "据华尔街日报：特朗普否认弹药短缺是个问题，他坚称，美国拥有的弹药远超世界上任何国家，也远超实际需求。",
@@ -310,11 +322,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 16时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 20时31分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
@@ -387,7 +400,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -431,9 +444,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-27）",
+          "url": "https://flash.jin10.com/detail/20260727202205552800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
         },
         {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
@@ -453,7 +477,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -464,7 +488,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         }
@@ -472,8 +496,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
         {
           "title": "停火先砸油价再救金价，多空争夺战移交美联储｜黄金头条",
           "url": "https://flash.jin10.com/detail/20260727115631436800",
